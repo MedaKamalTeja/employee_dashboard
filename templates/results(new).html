@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Attendance Report</title>
+</head>
+<body>
+    <h1>Attendance Report</h1>
+    <p>Download the report <a href="{{ url_for('generate_report') }}">here</a>.</p>
+    <h2>Reporting Manager: {{ reporting_manager_name }}</h2>
+    <h2>Date Range: March 1 to March 20</h2>
+    <table border="1">
+        <thead>
+            <tr>
+                <th>Employee Name</th>
+                <th>Employee Code</th>
+                <th>Present</th>
+                <th>Absent</th>
+                <th>Absent Dates</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for _, row in result_df.iterrows() %}
+            <tr>
+                <td>{{ row['Employee Name'] }}</td>
+                <td>{{ row['Employee Code'] }}</td>
+                <td>{{ row['P'] }}</td>
+                <td>{{ row['A'] }}</td>
+                <td>{{ row['Absent Dates'] }}</td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+</body>
+</html>

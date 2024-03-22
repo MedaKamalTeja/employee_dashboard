@@ -1,0 +1,939 @@
+No,,Employee Code,Employee Name,01-Mar,02-Mar,03-Mar,,04-Mar,05-Mar,06-Mar,07-Mar,08-Mar,09-Mar,10-Mar,,11-Mar,12-Mar,13-Mar,14-Mar,15-Mar,16-Mar,17-Mar,18-Mar,19-Mar,20-Mar,Present,Absent
+1,,Con - 999,Sandeep Metta,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+2,,INT - 169,Priya Nikhita,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+3,,INT - 266,Pelluru  Lekhaz,P,A,A,,P,P,P,P,A,A,A,,A,P,P,P,P,A,A,P,,,10,8
+4,,INT - 275,Devanshu Bhatti,P,A,A,,P,P,P,,,,,,,,,,,,,,,,4,2
+5,,INT - 276,Syed Mohammed Furquan,A,A,A,,P,P,A,,,,,,,,,,,,,,,,2,4
+6,,PSI - 01,Renil,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+7,,PSI - 02,Rama,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+8,,PSI - 005,Aravinda M K,A,A,A,,P,P,A,,,,,,,,,,,,,,,,2,4
+9,,PSI - 068,Sudhakar Pydi,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+10,,PSI - 104,Lakshminarayana.D,P,A,A,,P,P,P,P,P,,,,P,P,P,P,P,,,,,,11,2
+11,,PSI - 110,Madhuri Reddy.K,A,A,A,,P,P,A,,,,,,,,,,,,,,,,2,4
+12,,PSI - 113,Srikanth Harkara,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+13,,PSI - 129,M Ramakrishna Reddy,P,A,A,,A,P,A,,,,,,,,,,,,,,,,2,4
+14,,PSI - 151,Seshu Kumari. k,P,A,A,,P,P,A,,,,,,,,,,,,,,,,3,3
+15,,PSI - 176,Maqsood Ahmed,P,A,A,,P,P,P,P,P,,,,A,P,P,P,P,,,,,,10,3
+16,,PSI - 197,Vinoth Kumar K K,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+17,,PSI - 253,Venkata Balaji Rao Chitikena,P,A,A,,P,P,P,P,P,,,,P,A,A,A,A,,,,,,7,6
+18,,PSI - 349,Manoj Kumar Reddy M,A,A,A,,A,P,P,,,,,,,,,,,,,,,,2,4
+19,,PSI - 359,Rajeeve Krishnan,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+20,,PSI - 403,Ravi M G,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+21,,PSI - 439,Basavaraj Padashetty,P,A,A,,A,A,P,A,P,A,A,,A,P,A,P,A,A,A,A,P,,6,13
+22,,PSI - 442,Anandan S,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+23,,PSI - 451,Nagaraju Dondapati,P,A,A,,P,P,A,,,,,,,,,,,,,,,,3,3
+24,,PSI - 460,Shashi Kiran H S,A,A,A,,A,P,A,,,,,,,,,,,,,,,,1,5
+25,,PSI - 500,Sandeep S,A,A,A,,P,P,A,,,,,,,,,,,,,,,,2,4
+26,,PSI - 505,Raju Ram,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+27,,PSI - 535,Nithya S,P,A,A,,P,P,A,,,,,,,,,,,,,,,,3,3
+28,,PSI - 538,Nirmal Kumar Bhargavan,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+29,,PSI - 542,Suresh reddy yerranagula,A,A,A,,A,P,A,,,,,,,,,,,,,,,,1,5
+30,,PSI - 647,Laiju Vadakkoodan Gangadharan,P,A,A,,P,P,P,P,P,,,,P,P,A,A,P,,,,,,9,4
+31,,PSI - 710,Sudheer Reddy Konagari,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+32,,PSI - 762,Sandeep M,A,A,A,,P,P,P,P,P,,,,P,P,P,P,P,,,,,,10,3
+33,,PSI - 797,Sanketh Nagaraj,A,A,A,,P,A,A,,,,,,,,,,,,,,,,1,5
+34,,PSI - 869,Ravali Priya Kasavarapu,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+35,,PSI - 980,Pellakuru Ravikiran,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+36,,PSI -1004,Abhishek Raja,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+37,,PSI -1094,Mullapudi Vidhyasagar,A,A,A,,P,A,A,,,,,,,,,,,,,,,,1,5
+38,,PSI -1113,Pavan Shenoy R,P,A,A,,A,A,A,,,,,,,,,,,,,,,,1,5
+39,,PSI -1206,Harshavardhan Reddy Seepareddy,A,A,A,,P,P,A,A,A,,,,P,P,P,P,P,,,,,,7,6
+40,,PSI -1252,Vamsi Krishna Gali,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+41,,PSI -1272,Musulla Sushma,P,A,A,,A,A,A,P,P,,,,P,A,A,A,A,,,,,,4,9
+42,,PSI -1274,Reddy Mohan Satya Sai Bhavani Prasad,P,A,A,,P,P,P,P,A,,,,A,A,A,A,A,,,,,,5,8
+43,,PSI -1283,Nithya Kandasamy,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+44,,PSI -1296,Posimsetti Uma Maheswari,P,A,A,,P,A,A,A,A,,,,A,A,A,A,A,,,,,,2,11
+45,,PSI -1367,Sathish Chandra Dega,P,P,A,,P,P,A,,,,,,,,,,,,,,,,4,2
+46,,PSI -1371,Venkateswarlu Nandimandalam,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+47,,PSI -1452,Ramchand Kolavennu,P,A,A,,P,P,P,,,,,,,,,,,,,,,,4,2
+48,,PSI -1454,Janardhan Murugeshan,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+49,,PSI -1468,Satheeshkumar Sampath,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+50,,PSI -1493,Anand Antony Minj,P,A,A,,P,P,P,,,,,,,,,,,,,,,,4,2
+51,,PSI -1503,Reddy Sekhar Yadavali,A,A,A,,A,A,A,A,A,,,,A,A,A,A,A,A,A,A,,,0,16
+52,,PSI -1504,Nikhil Jagannath,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+53,,PSI -1505,Venkata Suman Kumar Addepalli,P,A,A,,A,A,A,,,,,,,,,,,,,,,,1,5
+54,,PSI -1517,Varuna K M,A,A,A,,A,P,P,,,,,,,,,,,,,,,,2,4
+55,,PSI -1520,Krishna Reddy C V,P,P,A,,P,P,P,,,,,,,,,,,,,,,,5,1
+56,,PSI -1556,Kommula Satya Prasad,A,A,A,,A,P,A,,,,,,,,,,,,,,,,1,5
+57,,PSI -1575,Archana Ravi,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+58,,PSI -1583,Sudheesh KS,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+59,,PSI -1584,Rushyanthan Raman,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+60,,PSI -1589,Irfan Khan Yousufzai,A,A,A,,A,A,A,A,A,,,,A,A,A,A,A,,,,,,0,13
+61,,PSI -1594,Karventhan,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+62,,PSI -1604,Sugam Yadav,P,A,A,,A,A,P,A,P,,,,A,A,A,A,A,,,,,,3,10
+63,,PSI -1611,Challa Vijaysimha Reddy,P,A,A,,P,P,A,,,,,,,,,,,,,,,,3,3
+64,,PSI -1618,Peetla Revathi,P,A,A,,A,A,A,,,,,,,,,,,,,,,,1,5
+65,,PSI -1629,Manjunath KC,P,A,A,,P,P,P,,,,,,,,,,,,,,,,4,2
+66,,PSI -1632,Raghavendra Char B M,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+67,,PSI -1646,Joyson V K,A,A,A,,P,P,P,,,,,,,,,,,,,,,,3,3
+68,,PSI -1651,Vinoth Madhavan,P,A,A,,P,P,A,,,,,,,,,,,,,,,,3,3
+69,,PSI -1675,Akurathi Lakshmi Priyanka,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+70,,PSI -1688,Satyam Burman,P,A,A,,A,A,A,,,,,,,,,,,,,,,,1,5
+71,,PSI -1695,A Vetrivel,A,A,A,,P,P,A,,,,,,,,,,,,,,,,2,4
+72,,PSI -1696,Rakishan Madaswamy,P,A,A,,P,P,A,,,,,,,,,,,,,,,,3,3
+73,,PSI -1702,Shivaramakrishna O,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+74,,PSI -1714,Arati,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+75,,PSI -1716,Pappala Sivaprasad,A,A,A,,A,P,P,,,,,,,,,,,,,,,,2,4
+76,,PSI -1737,Vishwas George,P,A,A,,P,P,P,,,,,,,,,,,,,,,,4,2
+77,,PSI -1753,CJ Jhansi Rani,P,A,A,,P,P,A,,,,,,,,,,,,,,,,3,3
+78,,PSI -1756,Doddipalli Neelima,P,A,A,,A,P,A,,,,,,,,,,,,,,,,2,4
+79,,PSI -1768,Somarouthu Venkata Saisree,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+80,,PSI -1797,Murala Kiran Sai,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+81,,PSI -1808,Chinnala Divya Santhoshi Kumari,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+82,,PSI -1811,Sandhireddy Venkatesh,P,A,A,,P,P,A,,,,,,,,,,,,,,,,3,3
+83,,PSI -1818,Susithra Maharajan,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+84,,PSI -1825,Kotakonda Venkatadhri,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+85,,PSI -1835,Arun Kumar Chaudhary,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+86,,PSI -1843,Ashwini Jadhav,P,A,A,,P,P,A,,,,,,,,,,,,,,,,3,3
+87,,PSI -1846,Satyanarayana Murthy UVN,A,A,A,,P,A,A,,,,,,,,,,,,,,,,1,5
+88,,PSI -1847,Sudheer Kumar Velivala,P,A,A,,P,P,A,,,,,,,,,,,,,,,,3,3
+89,,PSI -1855,Pavithra M,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+90,,PSI -1856,Babuna Faiz Habibbhai,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+91,,PSI -1860,Bhaskar Chowdary Maddipati,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+92,,PSI -1861,Penjuri Raghavendra,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+93,,PSI -1895,Sandeep Vijayaraghavan,A,A,A,,A,P,A,,,,,,,,,,,,,,,,1,5
+94,,PSI -1911,Rahul Mohan,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+95,,PSI -1919,Charan Kumar Samadhi,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+96,,PSI -1920,Abhishek Kumar,A,A,A,,A,P,A,,,,,,,,,,,,,,,,1,5
+97,,PSI -1925,Sathwick,P,A,A,,P,P,A,,,,,,,,,,,,,,,,3,3
+98,,PSI -1931,Vegi Subramanyam,A,A,A,,P,A,A,A,A,,,,P,A,A,A,A,,,,,,2,11
+99,,PSI -1934,Swati Singh,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+100,,PSI -1951,Prasanth Holigi,A,A,A,,P,P,P,,,,,,,,,,,,,,,,3,3
+101,,PSI -1953,Anitha Kancham,A,A,A,,P,A,A,P,P,,,,P,P,P,P,P,,,,,,8,5
+102,,PSI -1961,Rahul Jain,P,A,A,,A,A,A,,,,,,,,,,,,,,,,1,5
+103,,PSI -1973,Swaroop S,P,A,A,,P,P,P,P,P,,,,P,P,P,P,P,,,,,,11,2
+104,,PSI -1977,Pallavi Badiger,A,A,A,,A,P,A,,,,,,,,,,,,,,,,1,5
+105,,PSI -1978,Kavana J S,P,A,A,,P,P,P,P,A,,,,P,P,P,P,P,,,,,,10,3
+106,,PSI -1980,Syed Akhil,P,A,A,,P,P,A,,,,,,,,,,,,,,,,3,3
+107,,PSI -1981,Akilesh M S,P,A,A,,P,P,A,,,,,,,,,,,,,,,,3,3
+108,,PSI -1997,Madhu Dilip Potadar,P,A,A,,A,A,A,,,,,,,,,,,,,,,,1,5
+109,,PSI -1999,Manjunatha Reddy,P,A,A,,P,P,A,,,,,,,,,,,,,,,,3,3
+110,,PSI - 2009,Joyita Samanta,P,A,A,,P,P,A,,,,,,,,,,,,,,,,3,3
+111,,PSI -2018,Anjali Ajit Deswandikar,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+112,,PSI -2060,Madhulita Sahadev Machireddy,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+113,,PSI -2061,Umesh teli,P,A,A,,P,P,A,A,A,,,,,,,,,,,,,,3,5
+114,,PSI -2062,Arvind Appanna,P,A,A,,A,P,P,,,,,,,,,,,,,,,,3,3
+115,,PSI -2070,Naseer Ahmed,P,A,A,,P,P,A,,,,,,,,,,,,,,,,3,3
+116,,PSI -2075,Rose Mary Mali,P,A,A,,P,A,A,,,,,,,,,,,,,,,,2,4
+117,,PSI -2108,Vishwa Guru,P,A,A,,P,P,P,P,P,,,,A,P,A,A,A,,,,,,7,6
+118,,PSI -2121,S R Shravan Kumar,A,A,A,,P,P,A,,,,,,,,,,,,,,,,2,4
+119,,PSI -2132,Rakesh M,P,A,A,,A,P,A,,,,,,,,,,,,,,,,2,4
+120,,PSI -2134,Yashwantha C S,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+121,,PSI -2138,Praveen Bhajipale,P,A,A,,P,P,P,P,P,,,,P,P,P,P,P,,,,,,11,2
+122,,PSI -2157,D S Girish,P,A,A,,A,P,A,P,A,,,,P,A,P,P,P,,,,,,7,6
+123,,PSI -2162,Rathinasabapathy T,P,A,A,,P,P,A,,,,,,,,,,,,,,,,3,3
+124,,PSI -2163,Bondu Venkata Krishna Reddy,P,A,A,,A,P,P,P,P,,,,P,P,P,P,A,,,,,,9,4
+125,,PSI -2181,Disha Niranjan,P,A,A,,P,P,P,P,P,,,,A,P,P,A,A,,,,,,8,5
+126,,PSI -2186,Pradeep K V,P,A,A,,A,A,A,,,,,,,,,,,,,,,,1,5
+127,,PSI -2210,Ajit Vinayak N,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+128,,PSI -2213,Mythili M,A,P,A,,A,A,A,,,,,,,,,,,,,,,,1,5
+129,,PSI -2218,Sagarika Das,P,A,A,,P,P,P,P,A,,,,P,P,P,A,P,,,,,,9,4
+130,,PSI -2221,Megha Maheswari,P,A,A,,P,P,A,,,,,,,,,,,,,,,,3,3
+131,,PSI -2222,Injam Snehith,P,A,A,,P,P,P,P,P,A,A,,P,P,A,,,,,,,,8,5
+132,,PSI -2223,Sandesh Padolkar,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+133,,PSI -2224,Mamata.B.B,A,A,A,,A,A,A,A,A,,,,A,A,A,A,A,,,,,,0,13
+134,,PSI -2226,Konda Uday Kumar,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+135,,PSI -2228,Akshata V Meti,P,A,A,,P,A,A,P,A,,,,A,A,A,A,A,,,,,,3,10
+136,,PSI -2229,Ignatia Mariette Doris,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+137,,PSI -2231,Dilip Kumar,P,A,A,,P,P,A,,,,,,,,,,,,,,,,3,3
+138,,PSI -2232,Chithresh Gowda,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+139,,PSI -2233,Sai Manoj,A,A,A,,A,A,A,A,A,,,,A,A,A,A,A,,,,,,0,13
+140,,PSI -2234,Saddam,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+141,,PSI -2248,Mohan Kumar C,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+142,,PSI -2262,Abdul Raheem Khan Airani,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+143,,PSI -2271,Sukshith B S,A,A,A,,P,P,A,A,,,,,,,,,,,,,,,2,5
+144,,PSI -2273,Megha Sharma,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+145,,PSI -2274,Ulli Chandra shekar,A,A,A,,A,P,P,,,,,,,,,,,,,,,,2,4
+146,,PSI -2277,Biswa Ranjan Pal,P,A,A,,P,P,A,,,,,,,,,,,,,,,,3,3
+147,,PSI -2281,Kartik Sood,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+148,,PSI -2283,Ramachandran Raji,A,A,A,,A,P,A,P,P,A,A,,A,A,P,P,P,A,A,A,,,6,12
+149,,PSI -2284,Mohith S,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+150,,PSI -2288,Ganda Swetha,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+151,,PSI -2289,Puja Raj,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+152,,PSI -2290,Akshay M,P,A,A,,P,P,P,,,,,,,,,,,,,,,,4,2
+153,,PSI -2292,Shaik Farhana Tasleem,P,A,A,,A,A,A,,,,,,,,,,,,,,,,1,5
+154,,PSI -2293,Sudharshan Reddy,P,P,P,,A,A,A,,,,,,,,,,,,,,,,3,3
+155,,PSI -2294,M Lokesh,P,A,A,,P,P,A,,,,,,,,,,,,,,,,3,3
+156,,PSI -2295,Prashant Kumar,A,A,A,,A,A,A,A,A,,,,A,A,A,A,A,,,,,,0,13
+157,,PSI -2299,Monika T M,P,A,A,,A,A,A,A,A,,,,A,A,A,A,A,,,,,,1,12
+158,,PSI -2304,Kurukuri Satya Harish,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+159,,PSI -2307,Garima,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+160,,PSI -2314,Neha Gopi Naik,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+161,,PSI -2315,Sumith Krishnan,A,A,A,,A,P,A,,,,,,,,,,,,,,,,1,5
+162,,PSI -2319,Anup Kumar,P,A,A,,P,P,P,P,P,,,,P,P,P,P,P,,,,,,11,2
+163,,PSI -2321,Reshma Ishwar Gaikwad,A,A,A,,A,A,P,P,P,,,,A,A,P,P,P,,,,,,6,7
+164,,PSI -2324,Saurav Kumar,A,A,A,,A,A,A,A,A,,,,A,A,A,A,A,,,,,,0,13
+165,,PSI -2331,Raushan Kumar,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+166,,PSI -2335,Allolla Sambaiah Gari Prashanth Kumar,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+167,,PSI -2336,Sama Gopi,A,A,A,,P,P,P,,,,,,,,,,,,,,,,3,3
+168,,PSI -2337,Javed H Tahasildar,A,A,A,,P,P,A,,,,,,,,,,,,,,,,2,4
+169,,PSI -2341,Jadam Naga Thripura Sunder,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+170,,PSI -2353,Rohit Tibrewal,P,A,A,,A,A,A,,,,,,,,,,,,,,,,1,5
+171,,PSI -2355,Anikit Grover,P,A,A,,P,P,A,,,,,,,,,,,,,,,,3,3
+172,,PSI -2361,Anil Kumar Akula,P,A,A,,A,P,P,A,,,,,,,,,,,,,,,3,4
+173,,PSI -2362,Safina Khanum,A,A,A,,P,P,P,A,A,,,,,,,,,,,,,,3,5
+174,,PSI -2367,Vinay A,A,A,A,,P,P,A,,,,,,,,,,,,,,,,2,4
+175,,PSI -2371,Vijay P,P,A,A,,P,P,A,,,,,,,,,,,,,,,,3,3
+176,,PSI -2376,Brijesh Kumar,P,A,A,,P,P,A,,,,,,,,,,,,,,,,3,3
+177,,PSI -2377,Jhimli Sen Mallick,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+178,,PSI -2380,Kalpana Doddapaneni,A,A,A,,A,P,A,,,,,,,,,,,,,,,,1,5
+179,,PSI -2389,C Balasubramanyam,P,A,A,,P,P,P,P,P,,,,P,P,P,P,A,,,,,,10,3
+180,,PSI -2390,Gobika A,P,A,A,,P,P,A,,,,,,,,,,,,,,,,3,3
+181,,PSI -2392,Harini Ravichandran,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+182,,PSI -2394,Preethi S P,P,A,A,,P,P,A,,,,,,,,,,,,,,,,3,3
+183,,PSI -2396,Nivetha KP,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+184,,PSI -2400,Sengkathirkumaran R,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+185,,PSI -2405,Nirali Dodiya,P,A,A,,P,P,P,,,,,,,,,,,,,,,,4,2
+186,,PSI -2410,Joseph Leslie Lyons,P,A,A,,P,A,P,,,,,,,,,,,,,,,,3,3
+187,,PSI -2415,Sreenu Pidugu,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+188,,PSI -2426,Kanthala Samatha,P,A,A,,A,A,A,,,,,,,,,,,,,,,,1,5
+189,,PSI -2429,Bhuvaneshwari SasiKumar,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+190,,PSI -2432,Kathroju Sindhja,P,A,A,,P,P,A,,,,,,,,,,,,,,,,3,3
+191,,PSI -2434,Hariviswak S R,P,A,A,,P,P,A,,,,,,,,,,,,,,,,3,3
+192,,PSI -2436,Prasanna M Hegde,A,A,A,,A,A,A,P,A,,,,A,A,A,A,A,,,,,,1,12
+193,,PSI -2437,Gowsalya Angamuthu,P,A,A,,A,P,A,,,,,,,,,,,,,,,,2,4
+194,,PSI -2439,Vadlamudi Naveen,A,A,A,,P,P,P,,,,,,,,,,,,,,,,3,3
+195,,PSI -2440,SriVignesh Govindhasamy,A,A,A,,P,P,A,,,,,,,,,,,,,,,,2,4
+196,,PSI -2441,Sona Saju M,A,A,A,,A,P,A,,,,,,,,,,,,,,,,1,5
+197,,PSI -2442,Siva Surya,P,A,A,,P,P,P,,,,,,,,,,,,,,,,4,2
+198,,PSI -2443,Vineeth Macharla,A,A,A,,P,P,A,,,,,,,,,,,,,,,,2,4
+199,,PSI -2446,Anusha John,P,A,A,,P,P,A,,,,,,,,,,,,,,,,3,3
+200,,PSI -2449,Chinantha Kumar,A,A,A,,P,P,A,,,,,,,,,,,,,,,,2,4
+201,,PSI -2450,Yaseerah Fathima,P,A,A,,A,P,P,P,P,,,,,,,,,,,,,,5,3
+202,,PSI -2452,Chidanand K V,P,A,A,,A,A,A,P,A,,,,A,P,P,P,P,,,,,,6,7
+203,,PSI -2453,Pappuri Ram Prasad Reddy,P,A,A,,P,P,P,,,,,,,,,,,,,,,,4,2
+204,,PSI -2454,Sanghamitra Goswami,P,A,A,,P,P,P,P,P,,,,P,P,P,P,P,,,,,,11,2
+205,,PSI -2455,Shaik Chinna Badesab,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+206,,PSI -2456,Mallikarjun Mahadev Sidnal,P,A,A,,P,P,A,,,,,,,,,,,,,,,,3,3
+207,,PSI -2457,Bharath B,A,A,A,,P,P,P,,,,,,,,,,,,,,,,3,3
+208,,PSI -2460,Pratikshya Priyadarsini Sahu,P,A,A,,P,P,P,P,P,,,,P,P,P,P,P,,,,,,11,2
+209,,PSI -2462,Manjushree S A,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+210,,PSI -2471,Ben Antony,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+211,,PSI -2478,Mohamed Sidhiq,P,A,A,,P,P,A,,,,,,,,,,,,,,,,3,3
+212,,PSI -2484,Abhishek S,P,A,A,,A,A,A,,,,,,,,,,,,,,,,1,5
+213,,PSI -2485,Besta Adithya,A,A,A,,P,P,A,,,,,,,,,,,,,,,,2,4
+214,,PSI -2487,Lella Harsha Vardhan,P,A,A,,P,P,A,,,,,,,,,,,,,,,,3,3
+215,,PSI -2489,Konduru Bhargav Reddy,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+216,,PSI -2490,Patil Tulasi,P,A,A,,P,P,A,,,,,,,,,,,,,,,,3,3
+217,,PSI -2491,Kurakula Vanaja,P,A,A,,P,P,P,P,P,,,,P,P,P,P,P,,,,,,11,2
+218,,PSI -2492,Abhay Madhav,P,A,A,,P,P,P,,,,,,,,,,,,,,,,4,2
+219,,PSI -2497,Thimmareddy Vishnu vardhan reddy,P,A,A,,P,P,A,,,,,,,,,,,,,,,,3,3
+220,,PSI -2501,Shaikh Mohmad Shahid Mo Said,P,A,A,,A,A,A,,,,,,,,,,,,,,,,1,5
+221,,PSI -2506,Sohan Shyam Tirpude,P,A,A,,P,P,P,A,P,,,,P,P,P,P,P,,,,,,10,3
+222,,PSI -2511,Shaifali Agarwal,P,A,A,,P,A,A,,,,,,,,,,,,,,,,2,4
+223,,PSI -2513,Aman Kumar Sharma,P,A,A,,A,A,P,A,P,,,,P,A,A,A,P,,,,,,5,8
+224,,PSI -2518,Anna Achiamma,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+225,,PSI -2520,Sasitheresa Jesdass,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+226,,PSI -2532,Sree Kalyan Kundanala,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+227,,PSI -2537,V S S Haneesh Krishna Karumudi,A,A,A,,P,P,A,,,,,,,,,,,,,,,,2,4
+228,,PSI -2538,Kaveri Basanagouda Hadimani,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+229,,PSI -2540,Yammanuru Chetan Kumar Reddy,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+230,,PSI -2543,Uma Maheswari Nunna,A,A,A,,P,A,A,,,,,,,,,,,,,,,,1,5
+231,,PSI -2544,K M Chethan,A,A,A,,A,A,A,P,P,,,,P,P,P,P,P,,,,,,7,6
+232,,PSI -2547,Omkar Sharad Wagh,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+233,,PSI -2549,Ashwin Babu S,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+234,,PSI -2551,Are Srivani,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+235,,PSI -2552,Jeevanandham Ravichandiran,P,A,A,,P,P,A,,,,,,,,,,,,,,,,3,3
+236,,PSI -2554,Poola Rana Prathap,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+237,,PSI -2555,Chanuboyina Vandana,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+238,,PSI -2558,Athukuri Sravan Kumar,P,A,A,,P,A,A,,,,,,,,,,,,,,,,2,4
+239,,PSI -2559,Vinothini B,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+240,,PSI -2562,Nali Chandu Harshavardhan,P,A,A,,P,P,A,,,,,,,,,,,,,,,,3,3
+241,,PSI -2564,Vijayalakshmi G P,A,A,A,,P,P,A,,,,,,,,,,,,,,,,2,4
+242,,PSI -2565,Sri Lakshmi Yamini,P,A,A,,P,P,A,,,,,,,,,,,,,,,,3,3
+243,,PSI -2570,Bhargav Thimmisetty,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+244,,PSI -2571,Vadlamudi Lavanya,P,A,A,,P,P,A,A,A,,,,P,P,P,P,P,,,,,,8,5
+245,,PSI -2572,Melvine Mathew,A,A,A,,A,A,A,A,A,,,,A,A,A,A,A,,,,,,0,13
+246,,PSI -2574,Hima Bindu Vadlamudi,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+247,,PSI -2578,Sandip Vitthal Rohokale,P,A,A,,A,A,A,A,A,,,,P,P,P,P,P,,,,,,6,7
+248,,PSI -2580,Vijayalakshmi R,A,A,A,,P,P,P,,,,,,,,,,,,,,,,3,3
+249,,PSI -2582,Biswaraj Biswal,A,A,A,,A,A,A,P,P,,,,,,,,,,,,,,2,6
+250,,PSI -2583,Charan Babu N,P,A,A,,P,A,A,,,,,,,,,,,,,,,,2,4
+251,,PSI -2584,Mounika Kota,P,A,A,,A,P,A,P,A,,,,A,A,P,P,P,,,,,,6,7
+252,,PSI -2585,Shweta Basappa Yallur,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+253,,PSI -2588,Ankapa Naidu Kunduru,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+254,,PSI -2590,Arun V Babu,A,A,A,,P,P,P,,,,,,,,,,,,,,,,3,3
+255,,PSI -2593,Aida C G,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+256,,PSI -2598,Desireddy Vigneswara Reddy,P,A,A,,A,P,A,,,,,,,,,,,,,,,,2,4
+257,,PSI -2600,Narayanaswamy Rajappa,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+258,,PSI -2602,Pogula Rajender,P,A,A,,P,P,A,,,,,,,,,,,,,,,,3,3
+259,,PSI -2603,Jeslin Jose,P,A,A,,P,P,A,,,,,,,,,,,,,,,,3,3
+260,,PSI -2604,Harish Babu Pagadala,A,A,A,,A,P,A,,,,,,,,,,,,,,,,1,5
+261,,PSI -2607,Dinesh Kumar Sah,P,A,A,,P,P,P,P,P,,,,P,P,P,P,P,,,,,,11,2
+262,,PSI -2608,Prince Ranjan,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+263,,PSI -2609,Komali Betham,P,A,A,,P,P,A,,,,,,,,,,,,,,,,3,3
+264,,PSI -2613,Anusha K,P,A,A,,P,P,P,P,P,,,,P,P,A,P,P,,,,,,10,3
+265,,PSI -2614,Shilpa J,P,A,A,,P,P,P,P,P,,,,P,P,P,P,P,,,,,,11,2
+266,,PSI -2617,Ambati Kesava Laxminarayana,A,A,A,,A,A,A,A,A,,,,P,P,P,P,P,,,,,,5,8
+267,,PSI -2619,Masul Shashavali,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+268,,PSI -2620,Asha HM,A,A,A,,A,P,A,,,,,,,,,,,,,,,,1,5
+269,,PSI -2621,Manepalli Venkata Raju,P,A,A,,P,P,A,,,,,,,,,,,,,,,,3,3
+270,,PSI -2627,Bodineni Reddeppa,A,A,A,,A,P,P,,,,,,,,,,,,,,,,2,4
+271,,PSI -2630,Kannan ThirugnanaSambantham,A,A,A,,P,P,A,,,,,,,,,,,,,,,,2,4
+272,,PSI -2632,Kavi Aarun Kanakaraj,P,A,A,,A,A,A,,,,,,,,,,,,,,,,1,5
+273,,PSI -2634,Anil K N,P,A,A,,A,P,P,,,,,,,,,,,,,,,,3,3
+274,,PSI -2637,P V Varun,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+275,,PSI -2638,Darshna R,A,A,A,,P,P,A,,,,,,,,,,,,,,,,2,4
+276,,PSI -2639,Kataganti Nagamalla Reddy,P,A,A,,P,P,A,,,,,,,,,,,,,,,,3,3
+277,,PSI -2641,Mohankumar Marimuthu,A,A,A,,P,P,A,,,,,,,,,,,,,,,,2,4
+278,,PSI -2642,Malli Charan Teja,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+279,,PSI -2648,Murikinati Jaya Simha Reddy,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+280,,PSI -2650,Hema V,P,A,A,,P,P,A,,,,,,,,,,,,,,,,3,3
+281,,PSI -2654,Anusha J,A,A,A,,A,P,P,,,,,,,,,,,,,,,,2,4
+282,,PSI -2655,Aqheel Arif,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+283,,PSI -2656,Kavan U Alva,P,A,A,,P,A,A,,,,,,,,,,,,,,,,2,4
+284,,PSI -2664,Venkata Surya Durga Prasad Mutyala,A,A,A,,A,A,A,A,A,A,A,,A,A,A,,,,,,,,0,13
+285,,PSI -2665,Mukesh Kumar,P,P,A,,P,P,P,A,A,A,A,,A,P,A,,,,,,,,6,7
+286,,PSI -2669,Siva Prasad Kolukuluri,P,A,A,,P,P,P,P,P,A,A,,P,P,A,,,,,,,,8,5
+287,,PSI -2670,Suraj Muralidaran,A,A,A,,A,A,A,A,,,,,,,,,,,,,,,0,7
+288,,PSI -2673,Suda Venu Babu,A,A,A,,A,P,P,,,,,,,,,,,,,,,,2,4
+289,,PSI -2678,Sara Susan John,P,A,A,,P,P,P,,,,,,,,,,,,,,,,4,2
+290,,PSI -2682,Kotha Reddy Gari Vishnuvardan Reddy,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+291,,PSI -2683,Mahesh P,P,A,A,,P,P,A,,,,,,,,,,,,,,,,3,3
+292,,PSI -2684,Manohar S,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+293,,PSI -2686,Praveen Singh,P,A,A,,P,P,P,P,P,,,,P,P,P,P,P,,,,,,11,2
+294,,PSI -2687,Naveen M,A,A,A,,A,P,A,,,,,,,,,,,,,,,,1,5
+295,,PSI -2690,Anna Mary Sojan,P,A,A,,P,P,A,,,,,,,,,,,,,,,,3,3
+296,,PSI -2691,Thatireddy Sivashankar Reddy,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+297,,PSI -2693,Aerath Rajeev Radhakrishnan,P,A,A,,A,P,A,,,,,,,,,,,,,,,,2,4
+298,,PSI -2695,B Abilash,P,A,A,,A,P,P,,,,,,,,,,,,,,,,3,3
+299,,PSI -2700,Garima Srivastava,P,A,A,,A,P,A,,,,,,,,,,,,,,,,2,4
+300,,PSI -2705,Manavalan Panneer,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+301,,PSI -2706,Raj Vichare,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+302,,PSI -2707,Neeraja M,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+303,,PSI -2710,Praneetha Modepalli,P,A,A,,P,P,P,P,P,,,,P,P,P,P,P,,,,,,11,2
+304,,PSI -2711,Ashwini Nishigandh Vaidya,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+305,,PSI -2714,Saba Usmani,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+306,,PSI -2719,Mohamed Jaabir Abdullah,P,A,A,,P,P,A,,,,,,,,,,,,,,,,3,3
+307,,PSI -2721,Venkatesh Babu K R,P,A,A,,A,P,P,P,P,,,,P,P,A,A,A,,,,,,7,6
+308,,PSI -2726,Gaddipati Thanuja,A,A,A,,P,P,P,,,,,,,,,,,,,,,,3,3
+309,,PSI -2728,Himanshu Khanna,A,A,A,,P,P,A,,,,,,,,,,,,,,,,2,4
+310,,PSI -2729,Rajeev Yellamelli,P,A,A,,P,P,P,P,P,,,,P,P,P,P,P,,,,,,11,2
+311,,PSI -2732,Vishal K S,A,A,A,,P,A,A,,,,,,,,,,,,,,,,1,5
+312,,PSI -2735,Aashika R,A,A,A,,P,P,A,,,,,,,,,,,,,,,,2,4
+313,,PSI -2737,Pranesh V,P,A,A,,P,P,A,,,,,,,,,,,,,,,,3,3
+314,,PSI -2740,Narayana Prudhvi,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+315,,PSI -2745,Minny Joseph,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+316,,PSI -2747,Aparna Kanajam,A,A,A,,P,P,P,,,,,,,,,,,,,,,,3,3
+317,,PSI -2749,Sushma Kumari,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+318,,PSI -2750,Akkulappagari Damodharanaidu,P,A,A,,P,P,A,,,,,,,,,,,,,,,,3,3
+319,,PSI -2751,Velpula Bhargavareddy,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+320,,PSI -2752,P C Nikhil,P,A,A,,P,P,A,,,,,,,,,,,,,,,,3,3
+321,,PSI -2753,Charan Reddy P M,P,A,A,,P,P,A,,,,,,,,,,,,,,,,3,3
+322,,PSI -2754,Obul Reddy Bhumireddy,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+323,,PSI -2755,Channa Venkata Lakshmi Dharani,P,A,A,,P,P,P,,,,,,,,,,,,,,,,4,2
+324,,PSI -2758,Veeresh Kumar K M,P,A,A,,A,P,A,,,,,,,,,,,,,,,,2,4
+325,,PSI -2759,Ralla Pavan Kalyan,P,A,A,,A,A,A,,,,,,,,,,,,,,,,1,5
+326,,PSI -2760,Kammari Bindhu Madhava,P,A,A,,P,P,P,,,,,,,,,,,,,,,,4,2
+327,,PSI -2761,Puvvada Jaya Rama Krishna,A,A,A,,A,A,A,A,A,,,,A,A,A,A,A,,,,,,0,13
+328,,PSI -2762,Karthik M P,A,A,A,,P,P,A,,,,,,,,,,,,,,,,2,4
+329,,PSI -2763,Kumaraguru R,P,A,A,,P,P,A,,,,,,,,,,,,,,,,3,3
+330,,PSI -2764,Hemanth Kumar N,P,A,A,,A,A,A,,,,,,,,,,,,,,,,1,5
+331,,PSI -2767,Ehlaam Adnan,P,A,A,,A,P,A,,,,,,,,,,,,,,,,2,4
+332,,PSI -2768,Kammara Manohar,P,A,A,,A,A,A,A,A,,,,P,A,A,A,P,,,,,,3,10
+333,,PSI -2771,Trivedi THM,P,A,A,,P,P,A,,,,,,,,,,,,,,,,3,3
+334,,PSI -2777,Krishanthan Sritharan,A,A,A,,P,P,A,,,,,,,,,,,,,,,,2,4
+335,,PSI -2778,Sumit Sehgal,P,A,A,,P,P,A,,,,,,,,,,,,,,,,3,3
+336,,PSI -2779,Darshika Bansal,A,A,A,,A,P,A,,,,,,,,,,,,,,,,1,5
+337,,PSI -2784,Vinay Kumar D,P,A,A,,P,A,P,P,P,,,,P,P,A,P,P,,,,,,9,4
+338,,PSI -2788,Vasudha A B,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+339,,PSI -2790,Supriya Monika Soreng,P,A,A,,P,P,A,,,,,,,,,,,,,,,,3,3
+340,,PSI -2796,Chagam Reddy Narayana Reddy,A,A,A,,A,A,A,A,A,,,,,,,,,,,,,,0,8
+341,,PSI -2799,Vedhika Anoora Krishnakumar,P,P,A,,A,P,A,,,,,,,,,,,,,,,,3,3
+342,,PSI -2800,Sujani Golla,P,A,A,,P,P,A,,,,,,,,,,,,,,,,3,3
+343,,PSI -2804,Nagaraju D,P,P,A,,P,P,P,,,,,,,,,,,,,,,,5,1
+344,,PSI -2806,Ajay Ram Kumar H C,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+345,,PSI -2808,Mohammed Mateen,P,A,A,,P,P,A,,,,,,,,,,,,,,,,3,3
+346,,PSI -2811,Pramod Raghunathan,A,A,A,,P,P,A,,,,,,,,,,,,,,,,2,4
+347,,PSI -2813,Anjali K S,P,A,A,,P,P,A,,,,,,,,,,,,,,,,3,3
+348,,PSI -2823,Majeti Trinath Sai Kumar,A,A,A,,A,P,P,,,,,,,,,,,,,,,,2,4
+349,,PSI -2825,Ambati Sai Kumar Reddy,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+350,,PSI -2827,Denaboina Naresh,P,A,A,,A,P,P,,,,,,,,,,,,,,,,3,3
+351,,PSI -2828,Golla Sai Jithin,P,A,A,,P,P,P,,,,,,,,,,,,,,,,4,2
+352,,PSI -2832,Konduri Santhoshkumar,P,A,A,,P,P,A,,,,,,,,,,,,,,,,3,3
+353,,PSI -2833,Muthukrishnan Poosaimani,A,A,A,,P,P,A,,,,,,,,,,,,,,,,2,4
+354,,PSI -2834,Sucharitha E,P,A,A,,P,A,A,,,,,,,,,,,,,,,,2,4
+355,,PSI -2836,Arun S Mathew,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+356,,PSI -2837,C Veeramanikandan,P,P,A,,A,P,P,,,,,,,,,,,,,,,,4,2
+357,,PSI -2853,Agastya Doolam,A,A,A,,P,P,A,,,,,,,,,,,,,,,,2,4
+358,,PSI -2855,Sindhuri R,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+359,,PSI -2857,Mohammed Noor M,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+360,,PSI -2858,Shabbeer HB,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+361,,PSI -2861,Thirumala B,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+362,,PSI -2862,Rohith H,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+363,,PSI -2863,Mohammed Wasim,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+364,,PSI -2865,Bobbili Uday Kumar Reddy,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+365,,PSI -2866,Kundam Arjun Reddy,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+366,,PSI -2867,Raja T,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+367,,PSI -2869,Sreelekha V,A,A,A,,A,A,A,A,A,,,,A,A,A,A,A,,,,,,0,13
+368,,PSI -2870,Jyothi S,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+369,,PSI -2871,Srinath B,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+370,,PSI -2874,Sai Praveena Lakshmi,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+371,,PSI -2875,Jodukapli Mamata,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+372,,PSI -2877,Badigi Shilpa,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+373,,PSI -2878,Y M Shubha,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+374,,PSI -2882,Nandini Hiregoudru,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+375,,PSI -2884,Srinivasa Y,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+376,,PSI -2885,Kasturi Lavanya,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+377,,PSI -2886,Kedarnath H M,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+378,,PSI -2887,Nagaveni A,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+379,,PSI -2888,Syed Moinuddin,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+380,,PSI -2889,Shashidhara E,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+381,,PSI -2890,Saguftha Tarannum,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+382,,PSI -2891,B Rajesh,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+383,,PSI -2892,K Vijay,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+384,,PSI -2893,G Veeresh,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+385,,PSI -2894,Raghavendra K Y,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+386,,PSI -2896,Mithun BL,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+387,,PSI -2898,Lakkam Raja Shashipal Reddy,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+388,,PSI -2900,B Arun Kumar,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+389,,PSI -2901,G . Varun Kumar Reddy,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+390,,PSI -2902,Sai Shree BP,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+391,,PSI -2903,Manoj Kumar Reddy R,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+392,,PSI -2907,Roopa P R,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+393,,PSI -2908,Endla Swetha,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+394,,PSI -2912,Flavia Marsha Dcosta,P,A,A,,P,P,P,,,,,,,,,,,,,,,,4,2
+395,,PSI -2913,Rakshith Rao,P,A,A,,A,P,A,,,,,,,,,,,,,,,,2,4
+396,,PSI -2914,Mohammed Tameem,P,A,A,,P,P,A,,,,,,,,,,,,,,,,3,3
+397,,PSI -2915,Logesh M,P,A,A,,A,P,P,,,,,,,,,,,,,,,,3,3
+398,,PSI -2916,Niha Ranjan Dash,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+399,,PSI -2921,Sahana Poojary,A,A,A,,A,A,A,A,A,,,,A,A,A,A,A,,,,,,0,13
+400,,PSI -2923,Guru Sai Rachagorla,P,A,A,,A,P,P,,,,,,,,,,,,,,,,3,3
+401,,PSI -2926,Dasari Ganesh,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+402,,PSI -2927,Tarin Taj,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+403,,PSI -2929,Allu Naga Vardhan Reddy,P,A,A,,P,A,A,,,,,,,,,,,,,,,,2,4
+404,,PSI -2930,Vishvak G,A,A,A,,P,P,P,P,P,,,,P,P,P,P,P,,,,,,10,3
+405,,PSI -2933,Ria Das,P,A,A,,P,A,A,P,,,,,,,,,,,,,,,3,4
+406,,PSI -2934,Yarasingu Saranya,P,A,A,,P,P,A,,,,,,,,,,,,,,,,3,3
+407,,PSI -2935,Bilagi Suresh Shrinidhi,P,A,A,,P,P,A,,,,,,,,,,,,,,,,3,3
+408,,PSI -2938,Aradani Santha Kumari,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+409,,PSI - 2939,Subrat Mishra,P,A,A,,A,P,A,,,,,,,,,,,,,,,,2,4
+410,,PSI - 2941,Sabareesh Kumar,P,A,A,,P,P,A,,,,,,,,,,,,,,,,3,3
+411,,PSI - 2946,Syed Abdul Hannan,P,A,A,,P,A,P,P,A,,,,P,P,P,P,P,,,,,,9,4
+412,,PSI - 2953,MD Kashif Kalam,P,A,A,,P,P,P,P,P,,,,P,P,P,P,A,,,,,,10,3
+413,,PSI - 2954,Shikha Parewa,P,A,A,,P,P,A,,,,,,,,,,,,,,,,3,3
+414,,PSI - 2955,Chandrashekar S,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+415,,PSI - 2956,Rahul Kumar Singh,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+416,,PSI - 2957,Krishna Sathwik,A,A,A,,A,P,A,,,,,,,,,,,,,,,,1,5
+417,,PSI - 2959,Diksha Ashok,A,A,A,,P,P,A,,,,,,,,,,,,,,,,2,4
+418,,PSI - 2961,Kalaivani Ranjan,P,A,A,,P,P,A,,,,,,,,,,,,,,,,3,3
+419,,PSI - 2962,Sudeepkumar G,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+420,,PSI - 2964,Kenguva Vikash Kumar,P,A,A,,P,P,P,P,P,A,A,,A,P,P,,,,,,,,8,5
+421,,PSI - 2966,Shatrughna Jadhav,P,A,A,,P,P,A,,,,,,,,,,,,,,,,3,3
+422,,PSI - 2967,Devadharshni K,P,A,A,,P,P,P,,,,,,,,,,,,,,,,4,2
+423,,PSI - 2968,Partosh Garg,P,A,A,,P,P,P,P,P,,,,P,P,P,P,P,,,,,,11,2
+424,,PSI - 2969,Racheeta Rout,P,A,A,,P,P,A,,,,,,,,,,,,,,,,3,3
+425,,PSI - 2973,ROHITH REDDY D,P,A,A,,P,P,P,P,P,,,,P,P,P,P,P,,,,,,11,2
+426,,PSI - 2974,Kamakshee Mahapatra,P,A,A,,P,A,P,P,P,,,,P,P,A,P,A,,,,,,8,5
+427,,PSI - 2977,Rakshitha M,P,A,A,,A,A,A,,,,,,,,,,,,,,,,1,5
+428,,PSI - 2978,BOYA MANOJ,P,A,A,,P,P,A,,,,,,,,,,,,,,,,3,3
+429,,PSI - 2979,CHANDAN KO,P,A,A,,P,P,A,,,,,,,,,,,,,,,,3,3
+430,,PSI - 2980,Daion Mathew,P,A,A,,P,P,A,,,,,,,,,,,,,,,,3,3
+431,,PSI - 2981,ANIMISH NISHAKAR,A,A,A,,A,A,P,,,,,,,,,,,,,,,,1,5
+432,,PSI - 2982,Dineshkumar M,P,A,A,,P,A,A,,,,,,,,,,,,,,,,2,4
+433,,PSI - 2998,Ramesh K,A,A,A,,P,P,A,,,,,,,,,,,,,,,,2,4
+434,,PSI - 3001,SATHEESHVARMA VANAPARTHI,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+435,,PSI - 3002,Vinay Bagale,P,A,A,,P,P,P,P,P,,,,P,P,P,P,P,,,,,,11,2
+436,,PSI - 3006,Nitika  Gupta,A,A,A,,P,P,A,,,,,,,,,,,,,,,,2,4
+437,,PSI - 3007,ANJALI  P,A,A,A,,A,A,A,A,A,,,,A,A,A,A,A,,,,,,0,13
+438,,PSI - 3008,Jermiya  Xavier,P,A,A,,P,P,P,P,P,,,,P,P,P,P,P,,,,,,11,2
+439,,PSI - 3010,M. Abiraami  Rakshana,A,A,A,,P,P,A,,,,,,,,,,,,,,,,2,4
+440,,PSI - 3011,Dudekula Athiya,P,A,A,,P,P,P,P,P,,,,P,P,P,P,P,,,,,,11,2
+441,,PSI - 3012,Yugandhar  Kotla,P,A,A,,P,P,A,,,,,,,,,,,,,,,,3,3
+442,,PSI - 3013,Kunchala  Ashvini,P,A,A,,P,P,A,,,,,,,,,,,,,,,,3,3
+443,,PSI - 3014,SathyaRadhakrishnan,A,A,A,,P,P,A,,,,,,,,,,,,,,,,2,4
+444,,PSI - 3016,NIKITA PRASAD,P,A,A,,P,P,A,,,,,,,,,,,,,,,,3,3
+445,,PSI - 3019,Sonu?Kumar,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+446,,PSI - 3020,Sadananda Kumbar?,P,A,A,,P,P,P,P,P,,,,P,P,P,P,P,,,,,,11,2
+447,,PSI - 3021,Harshith BM,P,A,A,,P,P,P,P,P,,,,P,P,P,P,P,,,,,,11,2
+448,,PSI - 3022,Paras?Grover,P,A,A,,P,P,P,P,,,,,,,,,,,,,,,5,2
+449,,PSI - 3023,Shivani Choudhary,A,A,A,,A,P,A,A,,,,,,,,,,,,,,,1,6
+450,,PSI - 3024,Neelakandan G,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+451,,PSI - 3025,Ranjith?N,P,A,A,,P,P,P,P,P,,,,,,,,,,,,,,6,2
+452,,PSI - 3028,Ayush Raj,A,A,A,,A,P,A,,,,,,,,,,,,,,,,1,5
+453,,PSI - 3029,Manoj Gunjal,A,A,A,,P,P,A,,,,,,,,,,,,,,,,2,4
+454,,PSI - 3030,NANDAGOPAL V,P,A,A,,P,P,A,,,,,,,,,,,,,,,,3,3
+455,,PSI - 3032,Anandhu P Pillai,A,A,A,,A,P,A,,,,,,,,,,,,,,,,1,5
+456,,PSI - 3033,Varshitha R,A,A,A,,A,P,P,,,,,,,,,,,,,,,,2,4
+457,,PSI - 3034,Naveenkumar Hiremath,P,A,A,,P,P,A,,,,,,,,,,,,,,,,3,3
+458,,PSI - 3036,Harsha M S,A,A,A,,A,P,A,,,,,,,,,,,,,,,,1,5
+459,,PSI - 3037,Shaik Abdul,P,A,A,,P,P,P,P,P,A,A,,P,P,P,P,,,,P,,,11,4
+460,,PSI - 3038,Shaik Abdulravoof,P,A,A,,P,P,A,P,P,P,A,,P,P,P,P,,,,,,,10,4
+461,,PSI - 3040,Shaik Suhail,P,A,A,,P,P,A,,,,,,,,,,,,,,,,3,3
+462,,PSI - 3041,Prithviraj Amin   M,P,A,A,,P,P,P,P,P,,,,,,,,,,,,,,6,2
+463,,PSI - 3042,Chethan BV,P,A,A,,P,P,A,P,P,,,,,,,,,,,,,,5,3
+464,,PSI - 3044,Kusuma  Mahadeva,P,A,A,,A,P,A,,,,,,,,,,,,,,,,2,4
+465,,PSI - 3046,Antara Kamath,A,A,A,,P,A,A,,,,,,,,,,,,,,,,1,5
+466,,PSI - 3047,Deepak P S,P,A,A,,P,P,A,,,,,,,,,,,,,,,,3,3
+467,,PSI - 3051,Sara PV,P,A,A,,P,P,A,,,,,,,,,,,,,,,,3,3
+468,,PSI - 3058,Yogananda M,P,A,A,,A,A,P,P,P,,,,,,,,,,,,,,4,4
+469,,PSI - 3310,Santhosh M,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+470,,PSI - 3328,Nandana H?,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+471,,PSI - 3329,JISHNU THIRUMANGALATH,P,A,A,,P,P,A,,,,,,,,,,,,,,,,3,3
+472,,PSI - 3331,Shristi Sinha,P,A,A,,P,P,A,,,,,,,,,,,,,,,,3,3
+473,,PSI - 3334,Shubham  Kulkarni,P,A,A,,P,P,A,,,,,,,,,,,,,,,,3,3
+474,,PSI - 3344,Syed Lathif,P,P,A,,A,P,P,,,,,,,,,,,,,,,,4,2
+475,,PSI - 3347,Tomsy Thomas,P,A,A,,P,P,A,,,,,,,,,,,,,,,,3,3
+476,,PSI - 3348,Hemant Mahawer,P,A,A,,P,P,P,,,,,,,,,,,,,,,,4,2
+477,,PSI - 3350,Priyanjali Rao,P,A,A,,P,P,A,,,,,,,,,,,,,,,,3,3
+478,,PSI -3353,Baddala Siva Prasad,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+479,,PSI -3354,Racharla Rahul,P,A,A,,P,P,P,,,,,,,,,,,,,,,,4,2
+480,,PSI -3358,Unnati Senani,P,A,A,,P,A,A,,,,,,,,,,,,,,,,2,4
+481,,PSI - 3363,Alryk Fonseca,P,P,A,,P,P,A,,,,,,,,,,,,,,,,4,2
+482,,PSI - 3364,Akil Khan,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+483,,PSI - 3365,C.Harsha Sai Raghav,P,A,A,,P,P,P,P,P,A,A,,P,P,P,,,,,P,,,10,4
+484,,PSI-3366,Arjun B R,A,A,A,,P,P,P,,,,,,,,,,,,,,,,3,3
+485,,PSI-3367,ASHISH P,P,A,A,,A,A,A,,,,,,,,,,,,,,,,1,5
+486,,PSI - 3368,Hardik Pandya,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+487,,PSI - 3369,Teethi Nag,P,A,A,,P,A,A,,,,,,,,,,,,,,,,2,4
+488,,PSI - 3370,Vishnu Vardan  Reddy,P,A,A,,P,P,P,,,,,,,,,,,,,,,,4,2
+489,,PSI - 3371,Dharini Gadhiraju,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+490,,PSI - 3374,Taranga Prasad,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+491,,PSI - 3379,Bharath BR,P,A,A,,A,A,A,,,,,,,,,,,,,,,,1,5
+492,,PSI - 3382,Inbavalli SenthilKumar,P,A,A,,P,P,P,,,,,,,,,,,,,,,,4,2
+493,,PSI - 3385,Vinayak Bhatt,P,A,A,,P,P,A,,,,,,,,,,,,,,,,3,3
+494,,PSI - 3386,Aanandini Tripathi,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+495,,PSI - 3391,Nirav  Saxena,P,P,A,,A,P,A,,,,,,,,,,,,,,,,3,3
+496,,PSI - 3392,Ajay Kumar,A,A,A,,P,P,A,,,,,,,,,,,,,,,,2,4
+497,,PSI - 3394,Gowtham E,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+498,,PSI - 3404,Kavinkumar R,P,A,A,,P,P,A,,,,,,,,,,,,,,,,3,3
+499,,PSI-3406,Ravishankar K S,A,A,A,,A,A,A,A,A,,,,,,,,,,,,,,0,8
+500,,PSI- 3407,Yogalakshmi R,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+501,,PSI- 3408,Archit Gupta,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+502,,PSI- 3410,Ayush Sonthalia,P,A,A,,P,P,P,,,,,,,,,,,,,,,,4,2
+503,,PSI - 3414,Ramya P,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+504,,PSI - 3415,Utkarsh Saxena,P,A,A,,P,P,P,,,,,,,,,,,,,,,,4,2
+505,,PSI - 3416,Raj Kumar Putluru,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+506,,PSI - 3418,Trishabh Vats,P,A,A,,P,P,A,,,,,,,,,,,,,,,,3,3
+507,,PSI - 3425,Anerud Uppalapati,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+508,,PSI - 3426,Dayanand Rajanna,A,A,A,,P,P,P,,,,,,,,,,,,,,,,3,3
+509,,PSI - 3431,Sudhanwa P,P,A,A,,P,P,A,,,,,,,,,,,,,,,,3,3
+510,,PSI - 3432,Sneha Sharma,P,A,A,,P,P,A,,,,,,,,,,,,,,,,3,3
+511,,PSI - 3434,Devaraj Patil,P,A,A,,P,P,A,,,,,,,,,,,,,,,,3,3
+512,,PSI - 3436,Dhwani Trivedi,P,A,A,,P,P,A,,,,,,,,,,,,,,,,3,3
+513,,PSI - 3438,Vijayalakshmi T G,P,A,A,,P,P,P,P,P,,,,,,,,,,,,,,6,2
+514,,PSI - 3439,Love Gupta,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+515,,PSI - 3466,Tejaswini C,P,A,A,,P,P,A,,,,,,,,,,,,,,,,3,3
+516,,PSI - 3467,Pavan Kalyan N,P,A,A,,P,P,P,,,,,,,,,,,,,,,,4,2
+517,,PSI - 3468,Rohith E,P,A,A,,P,P,P,P,P,,,,,,,,,,,,,,6,2
+518,,PSI - 3469,B R Vadiraja,P,A,A,,P,P,P,P,P,,,,,,,,,,,,,,6,2
+519,,PSI - 3470,Samantha V,P,A,A,,P,P,P,P,P,,,,,,,,,,,,,,6,2
+520,,PSI - 3471,Pothireddy Bhumi Sri,P,A,A,,P,P,A,,,,,,,,,,,,,,,,3,3
+521,,PSI - 3472,Kavana Hiremath,P,A,A,,P,P,A,,,,,,,,,,,,,,,,3,3
+522,,PSI - 3473,Meda Kamal Teja,A,A,A,,P,A,A,,,,,,,,,,,,,,,,1,5
+523,,PSI - 3474,Dhanush N Kuchally,P,A,A,,P,P,A,,,,,,,,,,,,,,,,3,3
+524,,PSI - 3475,Kiran Kumar B R,P,A,A,,P,P,P,,,,,,,,,,,,,,,,4,2
+525,,PSI - 3476,Sowmya D N,A,A,A,,P,P,P,A,A,,,,,,,,,,,,,,3,5
+526,,PSI - 3477,H S Anusha,P,A,A,,P,P,P,P,P,,,,,,,,,,,,,,6,2
+527,,PSI - 3478,Yamini P,P,A,A,,P,P,A,,,,,,,,,,,,,,,,3,3
+528,,PSI - 3479,Spandana S Y,P,A,A,,P,P,P,,,,,,,,,,,,,,,,4,2
+529,,PSI - 3480,Rekha K,P,A,A,,P,P,P,P,P,,,,,,,,,,,,,,6,2
+530,,PSI - 3481,Soujanya R Acharya,P,A,A,,P,P,P,A,A,,,,,,,,,,,,,,4,4
+531,,PSI - 3482,K P Bhavya,P,A,A,,P,P,P,,,,,,,,,,,,,,,,4,2
+532,,PSI - 3483,Sneha S,A,A,A,,P,P,A,,,,,,,,,,,,,,,,2,4
+533,,PSI - 3484,E NITHIN SAIKUMAR,P,A,A,,P,P,P,,,,,,,,,,,,,,,,4,2
+534,,PSI - 3485,Srishty K,A,A,A,,P,P,A,,,,,,,,,,,,,,,,2,4
+535,,PSI - 3486,Jayasurya P Gowda,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+536,,PSI - 3493,Tejaswini Kalmegh,P,P,A,,A,P,A,,,,,,,,,,,,,,,,3,3
+537,,PSI - 3494,HARISH Y V,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+538,,PSI - 3495,Bikash Niroula,P,A,A,,P,P,A,,,,,,,,,,,,,,,,3,3
+539,,PSI - 3499,Muralidhar G,P,A,A,,A,A,A,,,,,,,,,,,,,,,,1,5
+540,,PSI - 3500,Aboobacker Siddique C,P,P,A,,P,P,P,,,,,,,,,,,,,,,,5,1
+541,,PSI - 3506,Nandhini?R,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+542,,PSI - 3509,Mohammed Thufail,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+543,,PSI - 3515,Shwetha Shree S,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+544,,PSI - 3521,Pooja Chavan,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+545,,PSI - 3527,Kumuda Behera,P,A,A,,P,P,P,,,,,,,,,,,,,,,,4,2
+546,,PSI -3528,Sharanappa P,P,A,A,,P,P,A,,,,,,,,,,,,,,,,3,3
+547,,PSI - 3529,Aahna?Sharma,P,P,A,,P,P,A,,,,,,,,,,,,,,,,4,2
+548,,PSI - 3530,Amal?Antony,P,A,A,,P,P,A,,,,,,,,,,,,,,,,3,3
+549,,PSI -3531,Ashish Biradar,P,A,A,,A,A,A,,,,,,,,,,,,,,,,1,5
+550,,PSI -3532,Salman Dharvesh,P,A,A,,P,P,A,,,,,,,,,,,,,,,,3,3
+551,,PSI -3533,Garima Sharma,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+552,,PSI -3535,Abhijeet Nikam,P,A,A,,A,,,,,,,,,,,,,,,,,,1,3
+553,,PSI -3537,Vivek BR,A,A,A,,A,A,A,A,,,,,,,,,,,,,,,0,7
+554,,PSI4001,Test 1,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+555,,PSI4002,Test 2,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+556,,PSI4003,Test 3,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+557,,PSI4004,Test 4,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+558,,PSI4005,Test 5,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+559,,PSI - 4005,Test 5,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+560,,SSS - 043,Kariyamma,P,P,A,,P,P,P,,,,,,,,,,,,,,,,5,1
+561,,SSS - 067,Upendra B,P,P,A,,P,P,P,,,,,,,,,,,,,,,,5,1
+562,,SSS - 083,NipeshT,P,P,P,,P,P,P,,,,,,,,,,,,,,,,6,0
+563,,SSS - 084,Hari T,P,P,P,,P,P,P,,,,,,,,,,,,,,,,6,0
+564,,SSS - 095,Sumalatha,P,P,A,,P,P,P,,,,,,,,,,,,,,,,5,1
+,,Location,,BANGLORE
+,,,,01-Mar,02-Mar,03-Mar,,04-Mar,05-Mar,06-Mar,07-Mar,08-Mar,09-Mar,10-Mar,,11-Mar,12-Mar,13-Mar,14-Mar,15-Mar,16-Mar,17-Mar,18-Mar,19-Mar,20-Mar,P,A
+No,,Code,Emp Name,1-Fri,2-Sat,3-Sun,,4-Mon,5-Tue,6-Wed,7-Thu,8-Fri,9-Sat,10-Sun,,11-Mon,12-Tue,13-Wed,14-Thu,15-Fri,16-Sat,17-Sun,18-Mon,19-Tue,20-Wed
+1,,PSI - 1319,Krishna Naik,A,A,A,,A,,,,,,,,,,,,,,,,,,0,4
+2,,PSI - 2773,Rathies K,P,A,A,,P,P,P,P,A,A,A,,P,P,P,P,P,A,A,P,,,11,7
+3,,PSI - 2826,Jeevitha D,P,A,A,,P,,,,,,,,,,,,,,,,,,2,2
+4,,PSI - 3059,Bandi Pradeep,A,A,A,,P,,,,,,,,,,,,,,,,,,1,3
+5,,PSI - 3061,Uppara Thippeswamy?,A,A,A,,P,,,,,,,,,,,,,,,,,,1,3
+6,,PSI - 3065,Sujathasri Koganoli,P,A,A,,A,,,,,,,,,,,,,,,,,,1,3
+7,,PSI - 3068,Sanya Chawla,P,P,A,,P,,,,,,,,,,,,,,,,,,3,1
+8,,PSI - 3071,Anil? Rathod,P,A,A,,P,P,P,P,P,,,,,,,,,,,,,,6,2
+9,,PSI - 3072,Anurag Pandey,P,A,A,,P,P,P,P,P,,,,,,,,,,,,,,6,2
+10,,PSI - 3073,Uppala Lohith  Gowd,P,A,A,,P,,,,,,,,,,,,,,,,,,2,2
+11,,PSI - 3075,Mansa Wange,P,A,A,,P,,,,,,,,,,,,,,,,,,2,2
+12,,PSI - 3078,Rohun Singh,P,A,A,,P,,,,,,,,,,,,,,,,,,2,2
+13,,PSI - 3079,B.Mahesh Babu,A,A,A,,A,,,,,,,,,,,,,,,,,,0,4
+14,,PSI - 3082,Sairam E,P,A,A,,P,P,P,P,P,,,,,,,,,,,,,,6,2
+15,,PSI - 3083,Jabeevulla  K,P,P,P,,P,,,,,,,,,,,,,,,,,,4,0
+16,,PSI - 3087,Devdwajendra Ramanadh,A,A,A,,A,,,,,,,,,,,,,,,,,,0,4
+17,,PSI - 3089,Elton G,A,A,A,,A,,,,,,,,,,,,,,,,,,0,4
+18,,PSI - 3090,Vijay Bharath Ranadheer Siripuram,P,A,A,,A,P,P,P,P,,,,,,,,,,,,,,5,3
+19,,PSI - 3092,VENKATA PHANI KISHORE ATTILI,P,A,A,,P,P,P,P,P,,,,,,,,,,,,,,6,2
+20,,PSI - 3102,Pampana? Srihari,P,A,A,,P,,,,,,,,,,,,,,,,,,2,2
+21,,PSI - 3104,Naveen Satyanarayana,A,A,A,,A,,,,,,,,,,,,,,,,,,0,4
+22,,PSI - 3105,Papolu Vinay Pavan,A,A,A,,P,,,,,,,,,,,,,,,,,,1,3
+23,,PSI - 3106,P Praveen Reddy,P,A,A,,P,P,P,P,A,,,,,,,,,,,,,,5,3
+24,,PSI - 3107,Mogulla Shireesha,P,A,A,,P,,,,,,,,,,,,,,,,,,2,2
+25,,PSI - 3109,Yashoda Langatad,P,A,A,,P,,,,,,,,,,,,,,,,,,2,2
+26,,PSI - 3119,Rajshekhar A,P,A,A,,A,,,,,,,,,,,,,,,,,,1,3
+27,,PSI - 3120,Hrithik A Poojary,P,P,A,,A,,,,,,,,,,,,,,,,,,2,2
+28,,PSI - 3121,Darshan CS,P,A,A,,P,P,P,P,P,,,,,,,,,,,,,,6,2
+29,,PSI - 3122,Vijay Kumar H,P,P,A,,A,,,,,,,,,,,,,,,,,,2,2
+30,,PSI - 3126,Madhav Sajikumar,P,A,A,,P,,,,,,,,,,,,,,,,,,2,2
+31,,PSI - 3133,Sagar Kumar Sahu,P,A,A,,A,,,,,,,,,,,,,,,,,,1,3
+32,,PSI - 3135,Parimi Neeraja,P,A,A,,P,,,,,,,,,,,,,,,,,,2,2
+33,,PSI - 3137,Rajath Karpur R,A,A,A,,P,,,,,,,,,,,,,,,,,,1,3
+34,,PSI - 3142,Nithin Vernekar,P,A,A,,A,,,,,,,,,,,,,,,,,,1,3
+35,,PSI - 3144,M Samyukthaa,P,A,A,,P,,,,,,,,,,,,,,,,,,2,2
+36,,PSI - 3149,Shaik Arshiya?Thabassum,A,A,A,,A,,,,,,,,,,,,,,,,,,0,4
+37,,PSI - 3150,Madhu M,P,P,A,,A,,,,,,,,,,,,,,,,,,2,2
+38,,PSI - 3153,Prashant Jodage,A,A,A,,A,,,,,,,,,,,,,,,,,,0,4
+39,,PSI - 3154,Sushma T,P,A,A,,A,,,,,,,,,,,,,,,,,,1,3
+40,,PSI - 3158,Shaik Subhani Basha,P,A,A,,P,P,P,P,P,A,A,,P,P,P,P,P,A,A,P,P,,13,6
+41,,PSI - 3159,Akshay R,A,A,A,,P,P,P,P,P,P,A,,P,P,P,P,P,A,A,P,P,,13,6
+42,,PSI - 3163,Vishal Nair,A,A,A,,P,,,,,,,,,,,,,,,,,,1,3
+43,,PSI - 3165,Shital Chavan,A,A,A,,A,,,,,,,,,,,,,,,,,,0,4
+44,,PSI - 3168,Akanksha Singh,A,A,A,,A,,,,,,,,,,,,,,,,,,0,4
+45,,PSI - 3169,Vinjamuri Sita Gowthami,A,A,A,,A,,,,,,,,,,,,,,,,,,0,4
+46,,PSI - 3170,K Syed Amzeth,P,A,A,,A,A,A,A,A,,,,,,,,,,,,,,1,7
+47,,PSI - 3171,Santhosh S,P,A,A,,A,,,,,,,,,,,,,,,,,,1,3
+48,,PSI - 3174,Amit Janakatt,A,A,A,,A,,,,,,,,,,,,,,,,,,0,4
+49,,PSI - 3175,Arjuna Rao,P,P,A,,P,,,,,,,,,,,,,,,,,,3,1
+50,,PSI - 3176,Venkata Triveni Nali,A,A,A,,P,,,,,,,,,,,,,,,,,,1,3
+51,,PSI - 3179,Sravani C,P,A,A,,A,,,,,,,,,,,,,,,,,,1,3
+52,,PSI - 3180,Vamsi Krishna Reddy,P,A,A,,P,P,P,P,P,,,,,,,,,,,,,,6,2
+53,,PSI - 3184,Shaik Raffi Basha,A,A,A,,A,,,,,,,,,,,,,,,,,,0,4
+54,,PSI - 3192,Nandini Bheeram,P,A,A,,P,,,,,,,,,,,,,,,,,,2,2
+55,,PSI - 3193,G Babitha,A,A,A,,A,,,,,,,,,,,,,,,,,,0,4
+56,,PSI - 3197,Ajay Jadhav,A,A,A,,A,,,,,,,,,,,,,,,,,,0,4
+57,,PSI - 3198,Abhinav EK,A,A,A,,A,A,A,A,A,,,,,,,,,,,,,,0,8
+58,,PSI - 3202,Prajwal Nair,P,A,A,,P,P,P,P,P,,,,,,,,,,,,,,6,2
+59,,PSI - 3203,Kallesha GM,P,A,A,,P,,,,,,,,,,,,,,,,,,2,2
+60,,PSI - 3204,Muzammil Mahdi,A,A,A,,A,,,,,,,,,,,,,,,,,,0,4
+61,,PSI - 3205,Abhishek Mishra,A,A,A,,P,P,P,P,P,,,,,,,,,,,,,,5,3
+62,,PSI - 3206,Vishnu V,P,P,A,,A,,,,,,,,,,,,,,,,,,2,2
+63,,PSI - 3208,Pavankumar S,A,A,A,,A,A,A,A,A,,,,,,,,,,,,,,0,8
+64,,PSI - 3215,Chethan R,A,A,A,,A,,,,,,,,,,,,,,,,,,0,4
+65,,PSI - 3218,Sasidhar Gara,A,A,A,,A,A,A,A,A,,,,,,,,,,,,,,0,8
+66,,PSI - 3221,Shaunak Khatavkar,P,A,A,,P,,,,,,,,,,,,,,,,,,2,2
+67,,PSI - 3224,Sharath Kumar S,P,A,A,,P,,,,,,,,,,,,,,,,,,2,2
+68,,PSI - 3225,Shivabasayya B?Hiremath,P,A,A,,P,A,P,P,P,,,,,,,,,,,,,,5,3
+69,,PSI - 3227,Nalla Chanikya Varma,P,A,A,,P,,,,,,,,,,,,,,,,,,2,2
+70,,PSI - 3228,Pramodhini KS,P,A,A,,P,P,P,P,P,,,,,,,,,,,,,,6,2
+71,,PSI - 3229,Anita Kumari,A,A,A,,A,A,A,A,A,,,,,,,,,,,,,,0,8
+72,,PSI - 3235,Paranveer Kumar,A,A,A,,A,,,,,,,,,,,,,,,,,,0,4
+73,,PSI - 3236,Anthony EJ,P,A,A,,P,,,,,,,,,,,,,,,,,,2,2
+74,,PSI - 3237,Karthikeyan K,A,A,A,,A,,,,,,,,,,,,,,,,,,0,4
+75,,PSI - 3238,Mohamed Kamil,A,A,A,,A,,,,,,,,,,,,,,,,,,0,4
+76,,PSI - 3240,Abdul Sulthana Begum,P,A,A,,P,,,,,,,,,,,,,,,,,,2,2
+77,,PSI - 3241,Manjunata KC,P,A,A,,A,,,,,,,,,,,,,,,,,,1,3
+78,,PSI - 3242,Surapareddy Yasodha,A,A,A,,P,,,,,,,,,,,,,,,,,,1,3
+79,,PSI - 3245,Vignesh R,P,A,A,,A,P,P,P,P,,,,,,,,,,,,,,5,3
+80,,PSI - 3247,Buchipalli Pavan,A,A,A,,P,,,,,,,,,,,,,,,,,,1,3
+81,,PSI - 3249,RajeshPuppala,A,A,A,,A,,,,,,,,,,,,,,,,,,0,4
+82,,PSI - 3250,Sourabh?  Patel,A,A,A,,A,,,,,,,,,,,,,,,,,,0,4
+83,,PSI - 3251,Asimkhan   Sherkhanwale,A,A,A,,A,,,,,,,,,,,,,,,,,,0,4
+84,,PSI - 3254,Rakesh Polavarapu,A,A,A,,A,,,,,,,,,,,,,,,,,,0,4
+85,,PSI - 3256,Bharath S,P,A,A,,P,P,P,P,P,,,,,,,,,,,,,,6,2
+86,,PSI - 3257,Yashwanth AN,A,A,A,,P,P,P,P,P,,,,,,,,,,,,,,5,3
+87,,PSI - 3260,Suganya Devi,A,A,A,,A,,,,,,,,,,,,,,,,,,0,4
+88,,PSI - 3261,pankaj Kumar,A,A,A,,A,,,,,,,,,,,,,,,,,,0,4
+89,,PSI - 3263,Sayali Throat,A,A,A,,P,A,A,P,P,,,,,,,,,,,,,,3,5
+90,,PSI - 3264,Abdul   Tanzeel,A,A,A,,A,A,P,P,P,,,,,,,,,,,,,,3,5
+91,,PSI - 3268,Deekshith Dinakar S,A,A,A,,A,,,,,,,,,,,,,,,,,,0,4
+92,,PSI - 3269,Aman Kumar,A,A,A,,A,,,,,,,,,,,,,,,,,,0,4
+93,,PSI - 3271,Ashish Kumar,A,A,A,,A,,,,,,,,,,,,,,,,,,0,4
+94,,PSI - 3288,Moulvik M,P,A,A,,P,P,P,P,P,,,,,,,,,,,,,,6,2
+95,,PSI - 3289,Shilpa Rajan,A,A,A,,P,P,P,A,,,,,,,,,,,,,,,3,4
+96,,PSI - 3290,Anil Kumar sharma,A,A,A,,A,,,,,,,,,,,,,,,,,,0,4
+97,,PSI - 3301,Srishahini?Jayakumar,P,A,A,,A,A,P,P,P,A,A,,P,P,A,A,,,,P,,,7,8
+98,,PSI - 3303,Jagadabhi?Balaji,P,A,A,,P,,P,,,,,,,,,,,,,,,,3,2
+99,,PSI - 3304,NAGENDRA?  VASUDEVAN,P,A,A,,A,,,,,,,,,,,,,,,,,,1,3
+100,,PSI - 3305,Ajay Singh,P,A,A,,A,,,,,,,,,,,,,,,,,,1,3
+101,,PSI - 3306,Tharun Kumar   Meesala,P,A,A,,P,A,P,A,A,,,,,,,,,,,,,,3,5
+102,,PSI - 3307,Muhammad Najah?TP,A,A,A,,P,,,,,,,,,,,,,,,,,,1,3
+103,,PSI - 3308,Roshni?Lanke,P,A,A,,P,,,,,,,,,,,,,,,,,,2,2
+104,,PSI - 3309,Ashwani?Rawat,P,A,A,,A,,,,,,,,,,,,,,,,,,1,3
+105,,PSI - 3312,Pavan Devi Das,A,A,A,,A,,,,,,,,,,,,,,,,,,0,4
+106,,PSI - 3316,ADAVI SRI SATYA?SAI SARVAN,A,A,A,,P,,,,,,,,,,,,,,,,,,1,3
+107,,PSI - 3320,Manoj Nambi,P,A,A,,A,,,,,,,,,,,,,,,,,,1,3
+108,,PSI - 3323,Neha Naidu GN,A,A,A,,A,A,A,A,A,,,,,,,,,,,,,,0,8
+109,,PSI - 3324,Manasi Nanda,P,A,A,,P,P,A,A,A,,,,,,,,,,,,,,3,5
+110,,PSI - 3327,Kashyap Mahajan,A,A,A,,P,P,P,P,P,,,,,,,,,,,,,,5,3
+111,,PSI - 3433,Vaishnavi Sharma,P,A,A,,P,,,,,,,,,,,,,,,,,,2,2
+112,,PSI - 3488,Ronak Bhatia,A,A,A,,A,,,,,,,,,,,,,,,,,,0,4
+113,,PSI - 3489,Pratima Singh,A,A,A,,P,,,,,,,,,,,,,,,,,,1,3
+114,,PSI - 3490,Mohd Abdul Shahid,P,A,A,,A,,,,,,,,,,,,,,,,,,1,3
+115,,PSI - 3491,Vallakonda Dhruthi,A,A,A,,A,,,,,,,,,,,,,,,,,,0,4
+116,,PSI - 3503,Sandipta T,P,A,A,,P,,,,,,,,,,,,,,,,,,2,2
+,,Location,,Bellary
+,,,,01-Mar,02-Mar,03-Mar,,04-Mar,05-Mar,06-Mar,07-Mar,08-Mar,09-Mar,10-Mar,,11-Mar,12-Mar,13-Mar,14-Mar,15-Mar,16-Mar,17-Mar,18-Mar,19-Mar,20-Mar,P,A
+No,,Code,Emp Name,1-Fri,2-Sat,3-Sun,,4-Mon,5-Tue,6-Wed,7-Thu,8-Fri,9-Sat,10-Sun,,11-Mon,12-Tue,13-Wed,14-Thu,15-Fri,16-Sat,17-Sun,18-Mon,19-Tue,20-Wed
+1,,PSI - 3111,C VINAY Kumar,P,A,A,,P,,,,,,,,,,,,,,,,,,2,2
+2,,PSI - 3112,K SRUSHTI,A,A,A,,A,,,,,,,,,,,,,,,,,,0,4
+3,,PSI - 3113,MOHAMMED ADNAN Pasha,A,A,A,,A,,,,,,,,,,,,,,,,,,0,4
+4,,PSI - 3114,Yashavanth Kumar B,A,A,A,,A,,,,,,,,,,,,,,,,,,0,4
+5,,PSI - 3115,Sunil Kunmar,A,A,A,,A,,,,,,,,,,,,,,,,,,0,4
+6,,PSI - 3116,Yashodha G,A,A,A,,A,,,,,,,,,,,,,,,,,,0,4
+7,,PSI - 3123,Jesudas U,A,A,A,,A,,,,,,,,,,,,,,,,,,0,4
+8,,PSI - 3125,Sandhya Patil,A,A,A,,A,,,,,,,,,,,,,,,,,,0,4
+9,,PSI - 3129,Bharathi K,A,A,A,,A,,,,,,,,,,,,,,,,,,0,4
+10,,PSI - 3132,P Siddarth,A,A,A,,A,,,,,,,,,,,,,,,,,,0,4
+11,,PSI - 3156,Ajith Kumar B,A,A,A,,A,,,,,,,,,,,,,,,,,,0,4
+12,,PSI - 3157,Arun Kumar B,A,A,A,,A,,,,,,,,,,,,,,,,,,0,4
+13,,PSI - 3275,Veeresh Patil,A,A,A,,A,,,,,,,,,,,,,,,,,,0,4
+14,,PSI - 3276,Raghavendra N,A,A,A,,A,,,,,,,,,,,,,,,,,,0,4
+15,,PSI - 3277,Srilekha K,A,A,A,,A,,,,,,,,,,,,,,,,,,0,4
+16,,PSI - 3278,Rekha T,A,A,A,,A,,,,,,,,,,,,,,,,,,0,4
+17,,PSI - 3279,Manikanta H,A,A,A,,A,,,,,,,,,,,,,,,,,,0,4
+18,,PSI - 3280,Mallesh N,A,A,A,,A,,,,,,,,,,,,,,,,,,0,4
+19,,PSI - 3281,VINAY K R,A,A,A,,A,,,,,,,,,,,,,,,,,,0,4
+20,,PSI - 3282,Suraj M,A,A,A,,A,,,,,,,,,,,,,,,,,,0,4
+21,,PSI - 3283,ASHWINI ANJINAYYA,A,A,A,,A,,,,,,,,,,,,,,,,,,0,4
+22,,PSI - 3284,Rohith B,A,A,A,,A,,,,,,,,,,,,,,,,,,0,4
+23,,PSI - 3285,H M Bharathi Devi,A,A,A,,A,,,,,,,,,,,,,,,,,,0,4
+,,Location,,Chennai
+,,,,01-Mar,02-Mar,03-Mar,,04-Mar,05-Mar,06-Mar,07-Mar,08-Mar,09-Mar,10-Mar,,11-Mar,12-Mar,13-Mar,14-Mar,15-Mar,16-Mar,17-Mar,18-Mar,19-Mar,20-Mar,P,A
+No,,Code,Emp Name,1-Fri,2-Sat,3-Sun,,4-Mon,5-Tue,6-Wed,7-Thu,8-Fri,9-Sat,10-Sun,,11-Mon,12-Tue,13-Wed,14-Thu,15-Fri,16-Sat,17-Sun,18-Mon,19-Tue,20-Wed
+1,,INT - 273,Nisha Anandhan,A,A,A,,P,P,P,A,,,,,,,,,,,,,,,3,4
+2,,PSI - 057,Sunil Kumar Reddy.V,A,A,A,,A,A,A,A,,,,,,,,,,,,,,,0,7
+3,,PSI - 066,Srinivas Pithani,A,A,A,,A,A,A,A,,,,,,,,,,,,,,,0,7
+4,,PSI - 2949,Gokulprasad Seetharan,P,A,A,,P,P,P,P,,,,,,,,,,,,,,,5,2
+5,,PSI - 3063,Madhumitha Kumar,P,A,A,,P,P,A,P,,,,,,,,,,,,,,,4,3
+6,,PSI - 3066,Ruthiksha Kandavel,P,A,A,,P,P,P,P,,,,,,,,,,,,,,,5,2
+7,,PSI - 3070,Vidukessiny S,P,A,A,,P,P,A,P,,,,,,,,,,,,,,,4,3
+8,,PSI - 3074,Suvetha Kannappan,A,A,A,,A,A,A,A,,,,,,,,,,,,,,,0,7
+9,,PSI - 3080,Prashanth KP,P,A,A,,P,P,P,P,,,,,,,,,,,,,,,5,2
+10,,PSI - 3128,Shaira Banu,P,A,A,,P,P,P,P,P,A,A,,P,A,A,A,A,A,A,A,,,7,11
+11,,PSI - 3130,Karthickeyan,P,A,A,,P,P,P,P,,,,,,,,,,,,,,,5,2
+12,,PSI - 3146,Balaji CR,P,A,A,,P,A,A,P,,,,,,,,,,,,,,,3,4
+13,,PSI - 3151,Revathy R,A,A,A,,P,P,P,P,P,A,A,,P,P,P,P,P,A,A,P,,,11,7
+14,,PSI - 3161,Arun Prakash SS,P,A,A,,A,P,P,A,,,,,,,,,,,,,,,3,4
+15,,PSI - 3167,Adithya Krishnan,A,A,A,,P,P,A,A,,,,,,,,,,,,,,,2,5
+16,,PSI - 3189,M Sangeerthani,P,A,A,,P,P,P,P,,,,,,,,,,,,,,,5,2
+17,,PSI - 3190,Vadivelu T,P,A,A,,P,P,A,P,,,,,,,,,,,,,,,4,3
+18,,PSI - 3244,Rajabutheen  HS,A,A,A,,A,P,P,P,,,,,,,,,,,,,,,3,4
+19,,PSI - 3252,Muthu Karthika M,A,A,A,,A,A,A,A,A,A,A,,A,A,A,A,A,A,A,A,,,0,18
+20,,PSI - 3253,Vashnith   Jesukarsingh,P,A,A,,A,P,P,P,,,,,,,,,,,,,,,4,3
+21,,PSI - 3255,Viveka Manoharan,P,A,A,,A,A,A,A,,,,,,,,,,,,,,,1,6
+22,,PSI - 3258,Venkatesh Dayalan,P,A,A,,P,P,P,P,,,,,,,,,,,,,,,5,2
+23,,PSI - 3262,J Mohamed   Rafeeque,A,A,A,,P,P,P,P,,,,,,,,,,,,,,,4,3
+24,,PSI - 3318,Chandrasudeshwaran?TS,A,A,A,,A,P,P,P,,,,,,,,,,,,,,,3,4
+25,,PSI - 3346,T  Vidhya,A,A,A,,A,A,A,A,,,,,,,,,,,,,,,0,7
+26,,PSI -3356,Harish V,P,P,A,,P,A,P,A,,,,,,,,,,,,,,,4,3
+27,,PSI - 3372,Muthu Lakshmi M,P,A,A,,P,P,P,P,,,,,,,,,,,,,,,5,2
+28,,PSI - 3373,Loyola Daniel Duke,P,A,A,,P,P,P,P,,,,,,,,,,,,,,,5,2
+29,,PSI - 3377,Kirubakaran Kulasekaran,P,A,A,,P,P,P,P,,,,,,,,,,,,,,,5,2
+30,,PSI - 3393,Gowtham R,P,A,A,,P,P,P,P,,,,,,,,,,,,,,,5,2
+31,,PSI - 3413,Dinesh Kumar S,P,A,A,,P,P,P,A,,,,,,,,,,,,,,,4,3
+32,,PSI - 3417,Rajkumar S,P,A,A,,P,P,A,A,,,,,,,,,,,,,,,3,4
+33,,PSI - 3419,Kishor R,P,A,A,,P,P,P,P,,,,,,,,,,,,,,,5,2
+34,,PSI - 3427,Sai Keerthi Akaash,P,A,A,,P,P,A,P,,,,,,,,,,,,,,,4,3
+35,,PSI - 3437,Devaraj R,P,A,A,,P,P,P,P,,,,,,,,,,,,,,,5,2
+36,,SSS 049,Navin Raikal,A,A,A,,A,A,A,A,,,,,,,,,,,,,,,0,7
+37,,SSS 050,Deepak Thapa,A,A,A,,A,A,A,A,,,,,,,,,,,,,,,0,7
+,,Location,,Gurgoan
+,,,,01-Mar,02-Mar,03-Mar,,04-Mar,05-Mar,06-Mar,07-Mar,08-Mar,09-Mar,10-Mar,,11-Mar,12-Mar,13-Mar,14-Mar,15-Mar,16-Mar,17-Mar,18-Mar,19-Mar,20-Mar,P,A
+No,,Code,Emp Name,1-Fri,2-Sat,3-Sun,,4-Mon,5-Tue,6-Wed,7-Thu,8-Fri,9-Sat,10-Sun,,11-Mon,12-Tue,13-Wed,14-Thu,15-Fri,16-Sat,17-Sun,18-Mon,19-Tue,20-Wed
+1,,PSI - 3511,Neeraj Kumar,A,A,A,,A,,,,,,,,,,,,,,,,,,0,4
+2,,PSI - 3512,ManishArora,A,A,A,,A,,,,,,,,,,,,,,,,,,0,4
+,,Location,,Hyderabad
+,,,,01-Mar,02-Mar,03-Mar,,04-Mar,05-Mar,06-Mar,07-Mar,08-Mar,09-Mar,10-Mar,,11-Mar,12-Mar,13-Mar,14-Mar,15-Mar,16-Mar,17-Mar,18-Mar,19-Mar,20-Mar,P,A
+No,,Code,Emp Name,1-Fri,2-Sat,3-Sun,,4-Mon,5-Tue,6-Wed,7-Thu,8-Fri,9-Sat,10-Sun,,11-Mon,12-Tue,13-Wed,14-Thu,15-Fri,16-Sat,17-Sun,18-Mon,19-Tue,20-Wed
+1,,INT - 270,Leela Sudha Prathi,P,A,A,,P,,,,,,,,,,,,,,,,,,2,2
+2,,PSI - 051,Senthil Kumaran .R. S,A,A,A,,A,,,,,,,,,,,,,,,,,,0,4
+3,,PSI - 2951,Uday Kumar K,P,A,A,,A,,,,,,,,,,,,,,,,,,1,3
+4,,PSI - 3095,Kasaram Sathish,A,A,A,,A,,,,,,,,,,,,,,,,,,0,4
+5,,PSI - 3096,Shaik Mohammed Saad Rafi,P,P,P,,P,,,,,,,,,,,,,,,,,,4,0
+6,,PSI - 3098,Yatham Sravan Kumar,P,P,P,,A,,,,,,,,,,,,,,,,,,3,1
+7,,PSI - 3136,Akriti Sharma,A,A,A,,A,,,,,,,,,,,,,,,,,,0,4
+8,,PSI - 3141,Manikonda?Pranaya,P,A,A,,P,,,,,,,,,,,,,,,,,,2,2
+9,,PSI - 3182,Siva Teja Boddeti,A,A,A,,P,,,,,,,,P,A,,,,,,,,,2,4
+10,,PSI - 3187,Muni Sai Dheeraj Pujari,A,A,A,,A,,,,,,,,,,,,,,,,,,0,4
+11,,PSI - 3188,Vamsi Karanam,P,A,A,,P,,,,,,,,,,,,,,,,,,2,2
+12,,PSI - 3199,Gaurav Gupta,P,A,A,,P,,,,,,,,,,,,,,,,,,2,2
+13,,PSI - 3201,Jagadesh Kumar Enapanuri,P,A,A,,P,,,,,,,,,,,,,,,,,,2,2
+14,,PSI - 3209,Sukanya Pattanaik,P,A,A,,P,,,,,,,,,,,,,,,,,,2,2
+15,,PSI - 3210,Mazarla Ashok Kumar,P,A,A,,A,,,,,,,,,,,,,,,,,,1,3
+16,,PSI - 3211,Mangali Gnaneshwar,P,A,A,,P,,,,,,,,,,,,,,,,,,2,2
+17,,PSI - 3212,Barad Sri Sruthi,P,A,A,,P,,,,,,,,,,,,,,,,,,2,2
+18,,PSI - 3231,Duddu Ramakrishna,A,A,A,,P,,,,,,,,,,,,,,,,,,1,3
+19,,PSI - 3232,Aarla Ramakanth,P,A,A,,P,,,,,,,,,,,,,,,,,,2,2
+20,,PSI - 3266,Naresh Yerramsetty,A,A,A,,A,A,A,A,A,A,A,,A,A,A,,,,,,,,0,13
+21,,PSI - 3272,Narender Pagadala,A,A,A,,P,,,,,,,,,,,,,,,,,,1,3
+22,,PSI - 3273,Kruti Vora,P,A,A,,P,,,,,,,,,,,,,,,,,,2,2
+23,,PSI - 3310,VIJENDER?REDDY,P,A,A,,P,,,,,,,,,,,,,,,,,,2,2
+24,,PSI - 3313,Jadi Raj Kumar,P,A,A,,P,,,,,,,,,,,,,,,,,,2,2
+25,,PSI - 3314,KHIZARZAI KARIMULLAH KHAN?,P,A,A,,P,,,,,,,,,,,,,,,,,,2,2
+26,,PSI - 3321,Sri Venkat Pathuri,P,A,A,,P,,,,,,,,,,,,,,,,,,2,2
+27,,PSI - 3332,Kolapalli Junendra,P,A,A,,P,,,,,,,,,,,,,,,,,,2,2
+28,,PSI - 3333,Bhargavi Tummala,P,A,A,,A,,,,,,,,,,,,,,,,,,1,3
+29,,PSI - 3342,Venkateswara Rao Loya,A,A,A,,P,,,,,,,,,,,,,,,,,,1,3
+30,,PSI - 3349,Sunny Kumar,P,A,A,,P,,,,,,,,,,,,,,,,,,2,2
+31,,PSI - 3351,Karan Gautam,P,A,A,,A,,,,,,,,,,,,,,,,,,1,3
+32,,PSI -3355,Ranjit Rautaray,P,A,A,,P,,,,,,,,,,,,,,,,,,2,2
+33,,PSI - 3383,Mohammed Muzakiruddin Ahmed,P,A,A,,P,,,,,,,,,,,,,,,,,,2,2
+34,,PSI - 3387,Tejaas T,P,A,A,,P,,,,,,,,,,,,,,,,,,2,2
+35,,PSI - 3388,Shaik Feroz,A,A,A,,A,,,,,,,,,,,,,,,,,,0,4
+36,,PSI - 3395,Biswajit Mohapatra,A,A,A,,A,,,,,,,,,,,,,,,,,,0,4
+37,,PSI - 3396,Sreenivasulu Reddy,A,A,A,,A,,,,,,,,,,,,,,,,,,0,4
+38,,PSI - 3397,Nishant Saxena,P,A,A,,P,,,,,,,,,,,,,,,,,,2,2
+39,,PSI- 3409,Tanvi Joshi,P,A,A,,P,,,,,,,,,,,,,,,,,,2,2
+40,,PSI - 3412,Chaitanya Sahu,A,A,A,,P,,,,,,,,,,,,,,,,,,1,3
+41,,PSI - 3420,Sakshi Singh,P,A,A,,P,,,,,,,,,,,,,,,,,,2,2
+42,,PSI - 3422,Haripriya Bhamidipati,P,A,A,,P,,,,,,,,,,,,,,,,,,2,2
+43,,PSI - 3424,Shivangi Vijayvargiya,P,A,A,,P,,,,,,,,,,,,,,,,,,2,2
+44,,PSI - 3513,Vishal Sharma,A,A,A,,A,,,,,,,,,,,,,,,,,,0,4
+45,,PSI - 3514,Rajesh Bhatt,P,A,A,,A,,,,,,,,,,,,,,,,,,1,3
+46,,PSI - 3525,Sivaji S,P,A,A,,P,,,,,,,,,,,,,,,,,,2,2
+47,,PSI - 3526,Joshinath MVD,P,A,A,,A,,,,,,,,,,,,,,,,,,1,3
+48,,PSI - 3534,Arun Kumar,P,A,A,,P,,,,,,,,,,,,,,,,,,2,2
+,,Location,,Hyderbad
+,,,,01-Mar,02-Mar,03-Mar,,04-Mar,05-Mar,06-Mar,07-Mar,08-Mar,09-Mar,10-Mar,,11-Mar,12-Mar,13-Mar,14-Mar,15-Mar,16-Mar,17-Mar,18-Mar,19-Mar,20-Mar,P,A
+No,,Code,Emp Name,1-Fri,2-Sat,3-Sun,,4-Mon,5-Tue,6-Wed,7-Thu,8-Fri,9-Sat,10-Sun,,11-Mon,12-Tue,13-Wed,14-Thu,15-Fri,16-Sat,17-Sun,18-Mon,19-Tue,20-Wed
+1,,PSI - 3345,B Vamshi Kiran,P,A,A,,A,,,,,,,,,,,,,,,,,,1,3
+,,Location,,Koramangala
+,,,,01-Mar,02-Mar,03-Mar,,04-Mar,05-Mar,06-Mar,07-Mar,08-Mar,09-Mar,10-Mar,,11-Mar,12-Mar,13-Mar,14-Mar,15-Mar,16-Mar,17-Mar,18-Mar,19-Mar,20-Mar,P,A
+No,,Code,Emp Name,1-Fri,2-Sat,3-Sun,,4-Mon,5-Tue,6-Wed,7-Thu,8-Fri,9-Sat,10-Sun,,11-Mon,12-Tue,13-Wed,14-Thu,15-Fri,16-Sat,17-Sun,18-Mon,19-Tue,20-Wed
+1,,PSI - 2708,Mogarala Srikan,A,A,A,,P,,,,,,,,,,,,,,,,,,1,3
+,,Location,,Mumbai
+,,,,01-Mar,02-Mar,03-Mar,,04-Mar,05-Mar,06-Mar,07-Mar,08-Mar,09-Mar,10-Mar,,11-Mar,12-Mar,13-Mar,14-Mar,15-Mar,16-Mar,17-Mar,18-Mar,19-Mar,20-Mar,P,A
+No,,Code,Emp Name,1-Fri,2-Sat,3-Sun,,4-Mon,5-Tue,6-Wed,7-Thu,8-Fri,9-Sat,10-Sun,,11-Mon,12-Tue,13-Wed,14-Thu,15-Fri,16-Sat,17-Sun,18-Mon,19-Tue,20-Wed
+1,,PSI -2343,Farook Jabbar Abdul Sadoq,A,A,A,,A,,,,,,,,,,,,,,,,,,0,4
+2,,PSI -2369,Bhagyashree Bhikaji Gaonkar,P,A,A,,P,,,,,,,,,,,,,,,,,,2,2
+3,,PSI -2412,Wibin Ayinikat,P,A,A,,P,A,P,,,,,,,,,,,,,,,,3,3
+4,,PSI -2431,Varun Ulhas Chaudhari,P,A,A,,P,,,,,,,,,,,,,,,,,,2,2
+5,,PSI -2473,Pushpa Radhelal Chaurasiya,P,A,A,,P,,,,,,,,,,,,,,,,,,2,2
+6,,PSI -2725,Yatri Harsh Barbhaya,A,A,A,,A,A,P,,,,,,,,,,,,,,,,1,5
+7,,PSI -2776,Charin Paresh Shah,A,A,A,,A,,,,,,,,,,,,,,,,,,0,4
+8,,PSI -2782,Shreya Utpal Shah,A,A,A,,A,,,,,,,,,,,,,,,,,,0,4
+9,,PSI -2797,Rujula Sudhindra Rao,A,A,A,,A,A,A,P,P,A,A,,P,A,,,,,,,,,3,9
+10,,PSI -2922,Vanvadi Bhagyashree Naresh,A,A,A,,A,,,,,,,,,,,,,,,,,,0,4
+11,,PSI -2924,Rishabh Vijay Kumar Bohra,P,A,A,,P,,,,,,,,,,,,,,,,,,2,2
+12,,PSI - 2945,Ameet Palkar,P,A,A,,A,,,,,,,,,,,,,,,,,,1,3
+13,,PSI - 2952,Lizanne Dsouza,A,A,A,,A,,,,,,,,,,,,,,,,,,0,4
+14,,PSI - 3048,Abhiram Khekale,P,A,A,,P,,,,,,,,,,,,,,,,,,2,2
+15,,PSI - 3053,Rajeshwar Nadar,A,A,A,,A,,,,,,,,,,,,,,,,,,0,4
+16,,PSI - 3064,Yesha  Viradia,A,A,A,,P,,,,,,,,,,,,,,,,,,1,3
+17,,PSI - 3139,Aashka?Yagnik,A,A,A,,P,,,,,,,,,,,,,,,,,,1,3
+18,,PSI - 3183,Isha Vala,A,A,A,,A,,,,,,,,,,,,,,,,,,0,4
+19,,PSI - 3195,Nidhi Shetty,A,A,A,,A,,,,,,,,,,,,,,,,,,0,4
+20,,PSI - 3207,Sayali Maddellu,P,A,A,,P,,,,,,,,,,,,,,,,,,2,2
+21,,PSI - 3219,Tanvi Rakshe,A,A,A,,P,,,,,,,,,,,,,,,,,,1,3
+22,,PSI - 3243,Disha Sanghavi,A,A,A,,A,,,,,,,,,,,,,,,,,,0,4
+23,,PSI - 3246,Akshay Chavan,P,A,A,,A,,,,,,,,,,,,,,,,,,1,3
+24,,PSI - 3259,Tejas Ambole,P,A,A,,P,,,,,,,,,,,,,,,,,,2,2
+25,,PSI - 3311,Akash Bhosale,A,A,A,,A,,,,,,,,,,,,,,,,,,0,4
+26,,PSI -3357,Gaurav Agrawal,P,A,A,,P,,,,,,,,,,,,,,,,,,2,2
+27,,PSI - 3360,Nikhil Saraf,P,A,A,,A,,,,,,,,,,,,,,,,,,1,3
+28,,PSI - 3362,Tushar  Kiran,A,A,A,,A,,,,,,,,,,,,,,,,,,0,4
+29,,PSI- 3378,Mayank Shukla,A,A,A,,P,,,,,,,,,,,,,,,,,,1,3
+30,,PSI - 3497,Aditi  Bhattacharjee,P,A,A,,P,,,,,,,,,,,,,,,,,,2,2
+31,,PSI - 3510,Shradha   Kittur,P,A,A,,P,,,,,,,,,,,,,,,,,,2,2
+,,Location,,Nellore
+,,,,01-Mar,02-Mar,03-Mar,,04-Mar,05-Mar,06-Mar,07-Mar,08-Mar,09-Mar,10-Mar,,11-Mar,12-Mar,13-Mar,14-Mar,15-Mar,16-Mar,17-Mar,18-Mar,19-Mar,20-Mar,P,A
+No,,Code,Emp Name,1-Fri,2-Sat,3-Sun,,4-Mon,5-Tue,6-Wed,7-Thu,8-Fri,9-Sat,10-Sun,,11-Mon,12-Tue,13-Wed,14-Thu,15-Fri,16-Sat,17-Sun,18-Mon,19-Tue,20-Wed
+1,,Cont - 015,Mohammed Husna,P,A,A,,P,P,P,,,,,,,,,,,,,,,,4,2
+2,,Cont - 016,Dasari Mahitha,P,A,A,,P,P,P,,,,,,,,,,,,,,,,4,2
+3,,Cont - 017,RamKishan Porumamilla,P,P,A,,P,P,P,,,,,,,,,,,,,,,,5,1
+4,,PSI - 100,Charan Tej,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+5,,PSI - 919,Alekya Vadinala,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+6,,PSI - 923,Lakshmi Suswetha Kareti,P,A,A,,P,P,P,,,,,,,,,,,,,,,,4,2
+7,,PSI -1463,Santhi Yerra,P,A,A,,P,P,P,,,,,,,,,,,,,,,,4,2
+8,,PSI -1957,Mesia Mary,A,A,A,,P,P,A,,,,,,,,,,,,,,,,2,4
+9,,PSI -2451,Mekala Mallikarjuna,P,A,A,,P,P,A,,,,,,,,,,,,,,,,3,3
+10,,PSI -2677,Syed Adhil,P,A,A,,P,P,P,,,,,,,,,,,,,,,,4,2
+11,,PSI -2692,Karra Lokesh,P,A,A,,P,P,P,,,,,,,,,,,,,,,,4,2
+12,,PSI -2703,Chamarthi Sushma,P,A,A,,P,P,P,,,,,,,,,,,,,,,,4,2
+13,,PSI -2712,Syed Tajuddin,P,A,A,,P,P,P,,,,,,,,,,,,,,,,4,2
+14,,PSI -2716,Hari Chandana Lakku,P,A,A,,P,P,P,,,,,,,,,,,,,,,,4,2
+15,,PSI -2766,Avala Chanikya,P,A,A,,P,P,A,,,,,,,,,,,,,,,,3,3
+16,,PSI -2785,Kakinada Tulasi,P,A,A,,P,P,P,,,,,,,,,,,,,,,,4,2
+17,,PSI -2802,Sivanadam Muni Venkata Akhilesh,P,P,A,,P,A,P,P,P,,,,,,,,,,,,,,6,2
+18,,PSI -2809,Shaik Vaseem,P,A,A,,P,P,P,,,,,,,,,,,,,,,,4,2
+19,,PSI -2816,Thalluri Paul Nischal,P,A,A,,P,P,P,,,,,,,,,,,,,,,,4,2
+20,,PSI -2818,Ingilela Smarika,P,A,A,,P,P,P,,,,,,,,,,,,,,,,4,2
+21,,PSI -2819,Nihar Ranjan Jena,P,A,A,,P,P,A,,,,,,,,,,,,,,,,3,3
+22,,PSI -2820,Sumit Satyam Tiwari,P,A,A,,P,P,A,,,,,,,,,,,,,,,,3,3
+23,,PSI -2821,Yagnam Mallikarjuna,A,A,A,,P,P,A,,,,,,,,,,,,,,,,2,4
+24,,PSI -2822,Padala Geetha,P,A,A,,P,P,A,,,,,,,,,,,,,,,,3,3
+25,,PSI -2839,K Saravana Satya Srinivas,P,A,A,,P,P,P,,,,,,,,,,,,,,,,4,2
+26,,PSI -2840,Rayapati Lokesh,P,A,A,,P,P,P,,,,,,,,,,,,,,,,4,2
+27,,PSI -2843,Polamreddy Vinod,A,A,A,,P,P,A,,,,,,,,,,,,,,,,2,4
+28,,PSI -2844,Subramanyam Kanajam,A,P,A,,A,A,A,,,,,,,,,,,,,,,,1,5
+29,,PSI - 2985,Vidavaluru Keerthana,P,A,A,,P,P,A,,,,,,,,,,,,,,,,3,3
+30,,PSI - 2986,Thirakala Narasimha,P,A,A,,P,P,A,,,,,,,,,,,,,,,,3,3
+31,,PSI - 2987,Praveen Kumar Sangana,P,A,A,,P,P,A,,,,,,,,,,,,,,,,3,3
+32,,PSI - 2989,Akshith Kumar Gundala,P,A,A,,P,P,A,,,,,,,,,,,,,,,,3,3
+33,,PSI - 2990,Tummalapenta Renusri,P,A,A,,A,A,A,,,,,,,,,,,,,,,,1,5
+34,,PSI - 2991,Malavika Chavana,P,A,A,,P,P,A,,,,,,,,,,,,,,,,3,3
+35,,PSI - 2992,Emmadisetty Jyothsna,P,A,A,,P,P,A,,,,,,,,,,,,,,,,3,3
+36,,PSI - 2994,Vamsi Sai Mangapathi,P,A,A,,P,P,P,,,,,,,,,,,,,,,,4,2
+37,,PSI - 2995,Guthi Kiran Kumar,P,A,A,,P,P,A,,,,,,,,,,,,,,,,3,3
+38,,PSI - 3003,Nikhil Jadapalli,P,A,A,,P,P,P,,,,,,,,,,,,,,,,4,2
+39,,PSI - 3004,Venkat Jadapalli,P,A,A,,P,P,A,,,,,,,,,,,,,,,,3,3
+40,,PSI - 3005,Pavan Kumar Malli,P,A,A,,P,P,A,,,,,,,,,,,,,,,,3,3
+41,,PSI - 3069,Paluru Anjana,A,A,A,,P,P,A,,,,,,,,,,,,,,,,2,4
+42,,PSI - 3185,Bhanu Prakash,P,A,A,,P,P,P,,,,,,,,,,,,,,,,4,2
+43,,PSI - 3274,Gangireddy Sai Kiran,A,A,A,,A,A,A,,,,,,,,,,,,,,,,0,6
+44,,PSI - 3294,Chitra Manasa,P,A,A,,P,P,P,P,P,A,A,,A,P,P,P,P,A,A,P,P,,12,7
+45,,PSI - 3295,Bommalatha Suvarna Bhavitha,P,A,A,,P,P,P,,,,,,,,,,,,,,,,4,2
+46,,PSI - 3296,Karthika Narayana Vempati,P,P,A,,P,A,A,,,,,,,,,,,,,,,,3,3
+47,,PSI - 3297,Syed Reshma,A,A,A,,P,P,P,A,A,A,A,,P,P,P,P,A,A,A,P,P,,9,10
+48,,PSI - 3298,Ashokkumarsingh Saiprasanna,P,P,A,,P,P,P,P,P,P,A,,P,P,P,P,P,P,A,P,P,,16,3
+49,,PSI - 3299,Motupalli Sai lakshmi,P,A,A,,A,A,P,P,P,P,A,,A,A,P,P,P,P,A,A,A,,9,10
+50,,PSI - 3330,Mogallapalli Deekshitha,A,A,A,,P,P,A,,,,,,,,,,,,,,,,2,4
+51,,PSI - 3380,Fazil,A,A,A,,P,P,A,,,,,,,,,,,,,,,,2,4
+52,,PSI - 3398,Anshu Kumar,P,P,A,,P,P,P,P,A,,,,,,,,,,,,,,6,2
+53,,PSI - 3399,Brahmaiah Lavanya,P,A,A,,A,P,P,P,P,,,,,,,,,,,,,,5,3
+54,,PSI - 3400,Kudari Satyanandam,P,P,A,,P,P,P,P,A,,,,,,,,,,,,,,6,2
+55,,PSI - 3402,AKURATHI CHENCHUSRI DEEPTHI,A,A,A,,P,P,A,P,A,,,,,,,,,,,,,,3,5
+56,,PSI - 3403,BOMMALATA SANDEEP,P,P,A,,P,P,P,,,,,,,,,,,,,,,,5,1
+57,,PSI - 3421,Shalini Pandipati,A,A,A,,P,P,P,,,,,,,,,,,,,,,,3,3
+58,,PSI - 3440,SHAHABAZ AHAMED F S,P,A,A,,P,P,P,,,,,,,,,,,,,,,,4,2
+59,,PSI - 3441,Akash R,P,A,A,,P,P,A,,,,,,,,,,,,,,,,3,3
+60,,PSI - 3442,Madhu Kumar HM,P,A,A,,P,P,P,,,,,,,,,,,,,,,,4,2
+61,,PSI - 3443,GERIGI YOGA SAI GANESH,P,P,A,,P,P,P,,,,,,,,,,,,,,,,5,1
+62,,PSI - 3444,Prashanth J Korabu,P,P,A,,P,P,P,,,,,,,,,,,,,,,,5,1
+63,,PSI - 3445,Lavanya A,P,A,A,,P,P,A,,,,,,,,,,,,,,,,3,3
+64,,PSI - 3446,Manasa S,P,A,A,,P,P,A,,,,,,,,,,,,,,,,3,3
+65,,PSI - 3447,HARSHITHA G,P,A,A,,P,P,P,,,,,,,,,,,,,,,,4,2
+66,,PSI - 3448,CHIGICHERLA SAI PRIYA,P,A,A,,P,P,A,,,,,,,,,,,,,,,,3,3
+67,,PSI - 3449,Konduru Chandu Reddy,P,A,A,,P,P,P,,,,,,,,,,,,,,,,4,2
+68,,PSI - 3451,SHAIK ZIYA UDDIN,P,A,A,,P,P,P,,,,,,,,,,,,,,,,4,2
+69,,PSI - 3452,Thippareddy Bhavya,P,A,A,,P,P,A,,,,,,,,,,,,,,,,3,3
+70,,PSI - 3453,Venkata Vasavi Kumari Pabbathi,P,A,A,,P,P,P,,,,,,,,,,,,,,,,4,2
+71,,PSI - 3454,Sayed Yasmin,P,A,A,,P,P,P,,,,,,,,,,,,,,,,4,2
+72,,PSI - 3455,Surendra Charishma Singh,P,A,A,,P,P,P,,,,,,,,,,,,,,,,4,2
+73,,PSI - 3456,Sailikhitha M?gunta,P,A,A,,P,P,P,,,,,,,,,,,,,,,,4,2
+74,,PSI - 3457,Syed Arshiya,P,A,A,,A,P,P,,,,,,,,,,,,,,,,3,3
+75,,PSI - 3458,Goli Pavan Sai,P,A,A,,P,P,P,,,,,,,,,,,,,,,,4,2
+76,,PSI - 3459,K.SANDEEP,P,A,A,,P,P,P,,,,,,,,,,,,,,,,4,2
+77,,PSI - 3460,Venkata Naga Chaturya,A,A,A,,P,P,P,,,,,,,,,,,,,,,,3,3
+78,,PSI - 3461,Yeturi Chaithanya,P,A,A,,P,A,P,,,,,,,,,,,,,,,,3,3
+79,,PSI - 3462,Mathangi Pravallika,P,A,A,,P,P,A,,,,,,,,,,,,,,,,3,3
+80,,PSI - 3463,LAGUTHOTI SUKEERTHI,P,A,A,,P,P,P,,,,,,,,,,,,,,,,4,2
+81,,PSI - 3464,Poli Sahithi,P,A,A,,P,P,P,,,,,,,,,,,,,,,,4,2
+82,,PSI - 3465,Devarala Anusha,P,A,A,,P,P,P,,,,,,,,,,,,,,,,4,2
+83,,PSI - 3505,RAMANJINI BESTA,P,A,A,,P,P,A,,,,,,,,,,,,,,,,3,3
+84,,PSI - 3508,SATYANARAYANA K,A,A,A,,P,P,A,,,,,,,,,,,,,,,,2,4
+85,,PSI - 3518,Balaji P,P,A,A,,P,P,A,,,,,,,,,,,,,,,,3,3
+86,,PSI - 3519,Gurunadham?P,P,A,A,,A,P,P,,,,,,,,,,,,,,,,3,3
+87,,PSI - 3522,Habeeb Mannar,P,A,A,,P,P,P,,,,,,,,,,,,,,,,4,2
+88,,PSI - 3524,Bhavana S,P,A,A,,P,P,A,,,,,,,,,,,,,,,,3,3

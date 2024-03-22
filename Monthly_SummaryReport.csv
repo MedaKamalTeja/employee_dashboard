@@ -1,0 +1,227 @@
+Employee Code,Employee Name,Designation,Company,Present,Absent,H,HP,WO,WOP,PL,CL,SL,T. L. Encash,T. OD,T. OT,T Duration,Early,Late,T. Leave,Total Days Present,Pay Days
+Con - 999,Sandeep Metta,None,Terra Unit - 2,0,5,0,0,0,0,0,0,0,,0,00:00,00:00,0,0,0,0,22
+Cont - 015,Mohammed Husna,None,Terra Unit - 2,5,0,0,0,0,0,0,0,0,,0,04:41,45:00,0,0,0,5,27
+Cont - 016,Dasari Mahitha,None,Terra Unit - 2,5,0,0,0,0,0,0,0,0,,0,01:37,44:05,3,0,0,5,27
+Cont - 017,RamKishan Porumamilla,None,Terra Unit - 2,5,0,0,0,0,0,0,0,0,,0,26:17,43:40,1,1,0,5,27
+INT - 169,Priya Nikhita,None,Terra Unit - 2,0,5,0,0,0,0,0,0,0,,0,00:00,00:00,0,0,0,0,22
+INT - 266,Pelluru  Lekhaz,None,Terra Unit - 2,14,12,0,0,0,0,0,0,0,,0,00:00,71:29,5,14,0,14,15
+INT - 273,Nisha Anandhan,None,Terra Unit - 2,5,0,0,0,0,0,0,0,0,,0,01:34,45:00,0,2,0,5,27
+INT - 274,Manasa Veena V,None,Terra Unit - 2,4,1,0,0,0,0,0,0,0,,0,00:00,29:21,3,4,0,4,26
+INT - 275,Devanshu Bhatti,None,Terra Unit - 2,5,0,0,0,0,0,0,0,0,,0,00:01,44:51,0,5,0,5,27
+INT - 276,Syed Mohammed Furquan,None,Terra Unit - 2,5,0,0,0,0,0,0,0,0,,0,00:00,28:26,4,5,0,5,27
+PSI - 01,Renil,None,Terra Unit - 2,0,5,0,0,0,0,0,0,0,,0,00:00,00:00,0,0,0,0,22
+PSI - 02,Rama,None,Terra Unit - 2,0,5,0,0,0,0,0,0,0,,0,00:00,00:00,0,0,0,0,22
+PSI - 057,Sunil Kumar Reddy.V,None,Terra Unit - 2,0,5,0,0,0,0,0,0,0,,0,00:00,00:00,0,0,0,0,22
+PSI - 066,Srinivas Pithani,None,Terra Unit - 2,0,5,0,0,0,0,0,0,0,,0,00:00,00:00,0,0,0,0,22
+PSI - 104,Lakshminarayana.D,None,Terra Unit - 2,6,3,0,0,0,0,0,0,0,,0,00:00,33:31,3,6,0,6,24
+PSI - 176,Maqsood Ahmed,None,Terra Unit - 2,0,9,0,0,0,0,0,0,0,,0,00:00,00:00,0,0,0,0,18
+PSI - 197,Vinoth Kumar K K,None,Terra Unit - 2,0,5,0,0,0,0,0,0,0,,0,00:00,00:00,0,0,0,0,22
+PSI - 253,Venkata Balaji Rao Chitikena,None,Terra Unit - 2,11,3,0,0,0,0,0,0,0,,0,00:00,67:06,10,4,0,11,24
+PSI - 359,Rajeeve Krishnan,None,Terra Unit - 2,1,4,0,0,0,0,0,0,0,,0,00:00,00:00,0,1,0,1,23
+PSI - 403,Ravi M G,None,Terra Unit - 2,0,5,0,0,0,0,0,0,0,,0,00:00,00:00,0,0,0,0,22
+PSI - 439,Basavaraj Padashetty,None,Terra Unit - 2,0,9,0,0,0,0,0,0,0,,0,00:00,00:00,0,0,0,0,18
+PSI - 505,Raju Ram,None,Terra Unit - 2,0,5,0,0,0,0,0,0,0,,0,00:00,00:00,0,0,0,0,22
+PSI - 647,Laiju Vadakkoodan Gangadharan,None,Terra Unit - 2,0,9,0,0,0,0,0,0,0,,0,00:00,00:00,0,0,0,0,18
+PSI - 762,Sandeep M,None,Terra Unit - 2,8,11,0,0,0,0,0,0,0,,0,02:00,67:56,1,7,0,8,16
+PSI -1206,Harshavardhan Reddy Seepareddy,None,Terra Unit - 2,0,9,0,0,0,0,0,0,0,,0,00:00,00:00,0,0,0,0,18
+PSI -1272,Musulla Sushma,None,Terra Unit - 2,7,7,0,0,0,0,0,0,0,,0,00:00,41:56,7,2,0,7,20
+PSI -1274,Reddy Mohan Satya Sai Bhavani Prasad,None,Terra Unit - 2,0,9,0,0,0,0,0,0,0,,0,00:00,00:00,0,0,0,0,18
+PSI -1296,Posimsetti Uma Maheswari,None,Terra Unit - 2,5,9,0,0,0,0,0,0,0,,0,00:00,38:15,0,5,0,5,18
+PSI - 1319,Krishna Naik,None,Terra Unit - 2,0,5,0,0,0,0,0,0,0,,0,00:00,00:00,0,0,0,0,22
+PSI -1371,Venkateswarlu Nandimandalam,None,Terra Unit - 2,0,5,0,0,0,0,0,0,0,,0,00:00,00:00,0,0,0,0,22
+PSI -1503,Reddy Sekhar Yadavali,None,Terra Unit - 2,0,9,0,0,0,0,0,0,0,,0,00:00,00:00,0,0,0,0,18
+PSI -1589,Irfan Khan Yousufzai,None,Terra Unit - 2,0,9,0,0,0,0,0,0,0,,0,00:00,00:00,0,0,0,0,18
+PSI -1604,Sugam Yadav,None,Terra Unit - 2,0,9,0,0,0,0,0,0,0,,0,00:00,00:00,0,0,0,0,18
+PSI -1925,Sathwick,None,Terra Unit - 2,8,11,0,0,0,0,0,0,0,,0,03:48,09:00,0,8,0,8,16
+PSI -1931,Vegi Subramanyam,None,Terra Unit - 2,4,5,0,0,0,0,0,0,0,,0,00:00,27:58,4,4,0,4,22
+PSI -1953,Anitha Kancham,None,Terra Unit - 2,0,9,0,0,0,0,0,0,0,,0,00:00,00:00,0,0,0,0,18
+PSI -1957,Mesia Mary,None,Terra Unit - 2,13,4,0,0,0,0,0,0,0,,0,00:04,105:16,0,13,0,13,23
+PSI -1973,Swaroop S,None,Terra Unit - 2,0,9,0,0,0,0,0,0,0,,0,00:00,00:00,0,0,0,0,18
+PSI -1978,Kavana J S,None,Terra Unit - 2,0,9,0,0,0,0,0,0,0,,0,00:00,00:00,0,0,0,0,18
+PSI -1980,Syed Akhil,None,Terra Unit - 2,16,6,0,0,0,0,0,0,0,,0,00:00,114:49,2,16,0,16,21
+PSI -2015,Juhi Ganesh Kale,None,Terra Unit - 2,0,5,0,0,0,0,0,0,0,,0,00:00,00:00,0,0,0,0,22
+PSI -2018,Anjali Ajit Deswandikar,None,Terra Unit - 2,0,5,0,0,0,0,0,0,0,,0,00:00,00:00,0,0,0,0,22
+PSI -2061,Umesh teli,None,Terra Unit - 2,0,9,0,0,0,0,0,0,0,,0,00:00,00:00,0,0,0,0,18
+PSI -2108,Vishwa Guru,None,Terra Unit - 2,0,14,0,0,0,0,0,0,0,,0,00:00,00:00,0,0,0,0,13
+PSI -2138,Praveen Bhajipale,None,Terra Unit - 2,0,14,0,0,0,0,0,0,0,,0,00:00,00:00,0,0,0,0,13
+PSI -2157,D S Girish,None,Terra Unit - 2,0,9,0,0,0,0,0,0,0,,0,00:00,00:00,0,0,0,0,18
+PSI -2163,Bondu Venkata Krishna Reddy,None,Terra Unit - 2,0,9,0,0,0,0,0,0,0,,0,00:00,00:00,0,0,0,0,18
+PSI -2181,Disha Niranjan,None,Terra Unit - 2,0,9,0,0,0,0,0,0,0,,0,00:00,00:00,0,0,0,0,18
+PSI -2218,Sagarika Das,None,Terra Unit - 2,0,9,0,0,0,0,0,0,0,,0,00:00,00:00,0,0,0,0,18
+PSI -2223,Sandesh Padolkar,None,Terra Unit - 2,0,5,0,0,0,0,0,0,0,,0,00:00,00:00,0,0,0,0,22
+PSI -2224,Mamata.B.B,None,Terra Unit - 2,0,9,0,0,0,0,0,0,0,,0,00:00,00:00,0,0,0,0,18
+PSI -2228,Akshata V Meti,None,Terra Unit - 2,0,9,0,0,0,0,0,0,0,,0,00:00,00:00,0,0,0,0,18
+PSI -2233,Sai Manoj,None,Terra Unit - 2,0,9,0,0,0,0,0,0,0,,0,00:00,00:00,0,0,0,0,18
+PSI -2283,Ramachandran Raji,None,Terra Unit - 2,0,9,0,0,0,0,0,0,0,,0,00:00,00:00,0,0,0,0,18
+PSI -2293,Sudharshan Reddy,None,Terra Unit - 2,0,16,0,0,0,0,0,0,0,,0,00:00,00:00,0,0,0,0,11
+PSI -2295,Prashant Kumar,None,Terra Unit - 2,0,9,0,0,0,0,0,0,0,,0,00:00,00:00,0,0,0,0,18
+PSI -2299,Monika T M,None,Terra Unit - 2,0,9,0,0,0,0,0,0,0,,0,00:00,00:00,0,0,0,0,18
+PSI -2314,Neha Gopi Naik,None,Terra Unit - 2,0,5,0,0,0,0,0,0,0,,0,00:00,00:00,0,0,0,0,22
+PSI -2319,Anup Kumar,None,Terra Unit - 2,0,9,0,0,0,0,0,0,0,,0,00:00,00:00,0,0,0,0,18
+PSI -2321,Reshma Ishwar Gaikwad,None,Terra Unit - 2,0,9,0,0,0,0,0,0,0,,0,00:00,00:00,0,0,0,0,18
+PSI -2324,Saurav Kumar,None,Terra Unit - 2,0,14,0,0,0,0,0,0,0,,0,00:00,00:00,0,0,0,0,13
+PSI -2362,Safina Khanum,None,Terra Unit - 2,0,9,0,0,0,0,0,0,0,,0,00:00,00:00,0,0,0,0,18
+PSI -2389,C Balasubramanyam,None,Terra Unit - 2,0,9,0,0,0,0,0,0,0,,0,00:00,00:00,0,0,0,0,18
+PSI -2397,Navya,None,Terra Unit - 2,0,5,0,0,0,0,0,0,0,,0,00:00,00:00,0,0,0,0,22
+PSI -2436,Prasanna M Hegde,None,Terra Unit - 2,0,9,0,0,0,0,0,0,0,,0,00:00,00:00,0,0,0,0,18
+PSI -2442,Siva Surya,None,Terra Unit - 2,12,4,0,0,0,0,0,0,0,,0,12:49,108:00,11,0,0,12,23
+PSI -2450,Yaseerah Fathima,None,Terra Unit - 2,0,9,0,0,0,0,0,0,0,,0,00:00,00:00,0,0,0,0,18
+PSI -2452,Chidanand K V,None,Terra Unit - 2,0,9,0,0,0,0,0,0,0,,0,00:00,00:00,0,0,0,0,18
+PSI -2454,Sanghamitra Goswami,None,Terra Unit - 2,0,9,0,0,0,0,0,0,0,,0,00:00,00:00,0,0,0,0,18
+PSI -2460,Pratikshya Priyadarsini Sahu,None,Terra Unit - 2,0,9,0,0,0,0,0,0,0,,0,00:00,00:00,0,0,0,0,18
+PSI -2491,Kurakula Vanaja,None,Terra Unit - 2,0,9,0,0,0,0,0,0,0,,0,00:00,00:00,0,0,0,0,18
+PSI -2506,Sohan Shyam Tirpude,None,Terra Unit - 2,0,9,0,0,0,0,0,0,0,,0,00:00,00:00,0,0,0,0,18
+PSI -2513,Aman Kumar Sharma,None,Terra Unit - 2,4,5,0,0,0,0,0,0,0,,0,00:00,17:03,3,4,0,4,22
+PSI -2544,K M Chethan,None,Terra Unit - 2,0,9,0,0,0,0,0,0,0,,0,00:00,00:00,0,0,0,0,18
+PSI -2563,Lakshmi Priya G,None,Terra Unit - 2,0,9,0,0,0,0,0,0,0,,0,00:00,00:00,0,0,0,0,18
+PSI -2571,Vadlamudi Lavanya,None,Terra Unit - 2,0,9,0,0,0,0,0,0,0,,0,00:00,00:00,0,0,0,0,18
+PSI -2572,Melvine Mathew,None,Terra Unit - 2,0,9,0,0,0,0,0,0,0,,0,00:00,00:00,0,0,0,0,18
+PSI -2578,Sandip Vitthal Rohokale,None,Terra Unit - 2,0,9,0,0,0,0,0,0,0,,0,00:00,00:00,0,0,0,0,18
+PSI -2581,Shubhendra Tomar,None,Terra Unit - 2,0,9,0,0,0,0,0,0,0,,0,00:00,00:00,0,0,0,0,18
+PSI -2582,Biswaraj Biswal,None,Terra Unit - 2,0,9,0,0,0,0,0,0,0,,0,00:00,00:00,0,0,0,0,18
+PSI -2584,Mounika Kota,None,Terra Unit - 2,0,9,0,0,0,0,0,0,0,,0,00:00,00:00,0,0,0,0,18
+PSI -2585,Shweta Basappa Yallur,None,Terra Unit - 2,0,5,0,0,0,0,0,0,0,,0,00:00,00:00,0,0,0,0,22
+PSI -2588,Ankapa Naidu Kunduru,None,Terra Unit - 2,0,5,0,0,0,0,0,0,0,,0,00:00,00:00,0,0,0,0,22
+PSI -2607,Dinesh Kumar Sah,None,Terra Unit - 2,0,9,0,0,0,0,0,0,0,,0,00:00,00:00,0,0,0,0,18
+PSI -2613,Anusha K,None,Terra Unit - 2,0,9,0,0,0,0,0,0,0,,0,00:00,00:00,0,0,0,0,18
+PSI -2614,Shilpa J,None,Terra Unit - 2,0,9,0,0,0,0,0,0,0,,0,00:00,00:00,0,0,0,0,18
+PSI -2617,Ambati Kesava Laxminarayana,None,Terra Unit - 2,0,9,0,0,0,0,0,0,0,,0,00:00,00:00,0,0,0,0,18
+PSI -2686,Praveen Singh,None,Terra Unit - 2,0,9,0,0,0,0,0,0,0,,0,00:00,00:00,0,0,0,0,18
+PSI -2710,Praneetha Modepalli,None,Terra Unit - 2,0,9,0,0,0,0,0,0,0,,0,00:00,00:00,0,0,0,0,18
+PSI -2721,Venkatesh Babu K R,None,Terra Unit - 2,0,9,0,0,0,0,0,0,0,,0,00:00,00:00,0,0,0,0,18
+PSI -2729,Rajeev Yellamelli,None,Terra Unit - 2,0,9,0,0,0,0,0,0,0,,0,00:00,00:00,0,0,0,0,18
+PSI -2760,Kammari Bindhu Madhava,None,Terra Unit - 2,9,7,0,0,0,0,0,0,0,,0,44:40,68:26,2,3,0,9,20
+PSI -2761,Puvvada Jaya Rama Krishna,None,Terra Unit - 2,0,14,0,0,0,0,0,0,0,,0,00:00,00:00,0,0,0,0,13
+PSI -2768,Kammara Manohar,None,Terra Unit - 2,3,6,0,0,0,0,0,0,0,,0,01:40,26:53,1,0,0,3,21
+PSI -2784,Vinay Kumar D,None,Terra Unit - 2,0,9,0,0,0,0,0,0,0,,0,00:00,00:00,0,0,0,0,18
+PSI -2796,Chagam Reddy Narayana Reddy,None,Terra Unit - 2,0,9,0,0,0,0,0,0,0,,0,00:00,00:00,0,0,0,0,18
+PSI -2869,Sreelekha V,None,Terra Unit - 2,0,9,0,0,0,0,0,0,0,,0,00:00,00:00,0,0,0,0,18
+PSI -2871,Srinath B,None,Terra Unit - 2,0,5,0,0,0,0,0,0,0,,0,00:00,00:00,0,0,0,0,22
+PSI -2884,Srinivasa Y,None,Terra Unit - 2,0,9,0,0,0,0,0,0,0,,0,00:00,00:00,0,0,0,0,18
+PSI - 2884,PSI - 2884,None,Terra unit 1,0,9,0,0,0,0,0,0,0,,0,00:00,00:00,0,0,0,0,18
+PSI -2921,Sahana Poojary,None,Terra Unit - 2,0,9,0,0,0,0,0,0,0,,0,00:00,00:00,0,0,0,0,18
+PSI -2926,Dasari Ganesh,None,Terra Unit - 2,0,17,0,0,0,0,0,0,0,,0,00:00,00:00,0,0,0,0,10
+PSI -2927,Tarin Taj,None,Terra Unit - 2,1,16,0,0,0,0,0,0,0,,0,00:00,04:28,1,1,0,1,11
+PSI -2929,Allu Naga Vardhan Reddy,None,Terra Unit - 2,7,10,0,0,0,0,0,0,0,,0,00:00,49:15,7,7,0,7,17
+PSI -2930,Vishvak G,None,Terra Unit - 2,0,9,0,0,0,0,0,0,0,,0,00:00,00:00,0,0,0,0,18
+PSI - 2946,Syed Abdul Hannan,None,Terra Unit - 2,0,9,0,0,0,0,0,0,0,,0,00:00,00:00,0,0,0,0,18
+PSI - 2953,MD Kashif Kalam,None,Terra Unit - 2,0,9,0,0,0,0,0,0,0,,0,00:00,00:00,0,0,0,0,18
+PSI - 2968,Partosh Garg,None,Terra Unit - 2,0,9,0,0,0,0,0,0,0,,0,00:00,00:00,0,0,0,0,18
+PSI - 2973,ROHITH REDDY D,None,Terra Unit - 2,0,9,0,0,0,0,0,0,0,,0,00:00,00:00,0,0,0,0,18
+PSI - 2974,Kamakshee Mahapatra,None,Terra Unit - 2,0,9,0,0,0,0,0,0,0,,0,00:00,00:00,0,0,0,0,18
+PSI - 2978,BOYA MANOJ,None,Terra Unit - 2,17,0,0,0,0,0,0,0,0,,0,00:00,118:15,3,17,0,17,27
+PSI - 2979,CHANDAN KO,None,Terra Unit - 2,9,8,0,0,0,0,0,0,0,,0,00:00,62:45,4,9,0,9,19
+PSI - 2980,Daion Mathew,None,Terra Unit - 2,6,11,0,0,0,0,0,0,0,,0,00:00,41:26,6,6,0,6,16
+PSI - 2981,ANIMISH NISHAKAR,None,Terra Unit - 2,0,17,0,0,0,0,0,0,0,,0,00:00,00:00,0,0,0,0,10
+PSI - 2982,Dineshkumar M,None,Terra Unit - 2,8,9,0,0,0,0,0,0,0,,0,00:00,46:47,8,8,0,8,18
+PSI - 3002,Vinay Bagale,None,Terra Unit - 2,0,9,0,0,0,0,0,0,0,,0,00:00,00:00,0,0,0,0,18
+PSI - 3007,ANJALI  P,None,Terra Unit - 2,0,9,0,0,0,0,0,0,0,,0,00:00,00:00,0,0,0,0,18
+PSI - 3008,Jermiya  Xavier,None,Terra Unit - 2,0,9,0,0,0,0,0,0,0,,0,00:00,00:00,0,0,0,0,18
+PSI - 3011,Dudekula Athiya,None,Terra Unit - 2,0,9,0,0,0,0,0,0,0,,0,00:00,00:00,0,0,0,0,18
+PSI - 3014,SathyaRadhakrishnan,None,Terra Unit - 2,7,9,0,0,0,0,0,0,0,,0,01:42,56:38,1,7,0,7,18
+PSI - 3015,PSI - 3015,None,Terra unit 1,0,9,0,0,0,0,0,0,0,,0,00:00,00:00,0,0,0,0,18
+PSI - 3020,Sadananda Kumbar?,None,Terra Unit - 2,0,9,0,0,0,0,0,0,0,,0,00:00,00:00,0,0,0,0,18
+PSI - 3021,Harshith BM,None,Terra Unit - 2,0,9,0,0,0,0,0,0,0,,0,00:00,00:00,0,0,0,0,18
+PSI - 3025,Ranjith?N,None,Terra Unit - 2,0,9,0,0,0,0,0,0,0,,0,00:00,00:00,0,0,0,0,18
+PSI - 3029,Manoj Gunjal,None,Terra Unit - 2,12,4,0,0,0,0,0,0,0,,0,03:19,101:27,1,12,0,12,23
+PSI - 3036,Harsha M S,None,Terra Unit - 2,2,15,0,0,0,0,0,0,0,,0,00:00,14:35,2,2,0,2,12
+PSI - 3037,Shaik Abdul,None,Terra Unit - 2,16,11,0,0,0,0,0,0,0,,0,00:00,80:30,4,6,0,16,16
+PSI - 3038,Shaik Abdulravoof,None,Terra Unit - 2,18,9,0,0,0,0,0,0,0,,0,00:00,106:32,6,11,0,18,18
+PSI - 3040,Shaik Suhail,None,Terra Unit - 2,18,9,0,0,0,0,0,0,0,,0,00:00,79:18,8,17,0,18,18
+PSI - 3041,Prithviraj Amin   M,None,Terra Unit - 2,0,9,0,0,0,0,0,0,0,,0,00:00,00:00,0,0,0,0,18
+PSI - 3042,Chethan BV,None,Terra Unit - 2,0,9,0,0,0,0,0,0,0,,0,00:00,00:00,0,0,0,0,18
+PSI - 3058,Yogananda M,None,Terra Unit - 2,0,9,0,0,0,0,0,0,0,,0,00:00,00:00,0,0,0,0,18
+PSI - 3059,Bandi Pradeep,None,Terra Unit - 2,0,6,0,0,0,0,0,0,0,,0,00:00,00:00,0,0,0,0,21
+PSI - 3061,Uppara Thippeswamy?,None,Terra Unit - 2,16,1,0,0,0,0,0,0,0,,0,02:13,118:38,8,16,0,16,26
+PSI - 3064,Yesha  Viradia,None,Terra Unit - 2,5,0,0,0,0,0,0,0,0,,0,00:00,34:07,3,5,0,5,27
+PSI - 3065,Sujathasri Koganoli,None,Terra Unit - 2,2,3,0,0,0,0,0,0,0,,0,00:00,13:04,2,2,0,2,24
+PSI - 3066,Ruthiksha Kandavel,None,Terra Unit - 2,2,3,0,0,0,0,0,0,0,,0,00:00,00:00,0,2,0,2,24
+PSI - 3067,Rohan Vyas,None,Terra Unit - 2,2,3,0,0,0,0,0,0,0,,0,00:00,14:47,0,2,0,2,24
+PSI - 3068,Sanya Chawla,None,Terra Unit - 2,0,5,0,0,0,0,0,0,0,,0,00:00,00:00,0,0,0,0,22
+PSI - 3069,Paluru Anjana,None,Terra Unit - 2,4,1,0,0,0,0,0,0,0,,0,00:00,28:56,4,4,0,4,26
+PSI - 3070,Vidukessiny S,None,Terra Unit - 2,2,3,0,0,0,0,0,0,0,,0,00:44,09:00,0,2,0,2,24
+PSI - 3071,Anil? Rathod,None,Terra Unit - 2,2,7,0,0,0,0,0,0,0,,0,00:00,17:05,1,2,0,2,20
+PSI - 3072,Anurag Pandey,None,Terra Unit - 2,0,9,0,0,0,0,0,0,0,,0,00:00,00:00,0,0,0,0,18
+PSI - 3082,Sairam E,None,Terra Unit - 2,0,9,0,0,0,0,0,0,0,,0,00:00,00:00,0,0,0,0,18
+PSI - 3087,Devdwajendra Ramanadh,None,Terra Unit - 2,5,18,0,0,0,0,0,0,0,,0,00:00,16:24,3,5,0,5,9
+PSI - 3090,Vijay Bharath Ranadheer Siripuram,None,Terra Unit - 2,0,9,0,0,0,0,0,0,0,,0,00:00,00:00,0,0,0,0,18
+PSI - 3092,VENKATA PHANI KISHORE ATTILI,None,Terra Unit - 2,0,9,0,0,0,0,0,0,0,,0,00:00,00:00,0,0,0,0,18
+PSI - 3096,Shaik Mohammed Saad Rafi,None,Terra Unit - 2,11,5,0,0,0,0,0,0,0,,0,19:27,62:39,3,4,0,11,22
+PSI - 3098,Yatham Sravan Kumar,None,Terra Unit - 2,12,4,0,0,0,0,0,0,0,,0,02:05,105:30,12,0,0,12,23
+PSI - 3105,Papolu Vinay Pavan,None,Terra Unit - 2,0,9,0,0,0,0,0,0,0,,0,00:00,00:00,0,0,0,0,18
+PSI - 3106,P Praveen Reddy,None,Terra Unit - 2,0,9,0,0,0,0,0,0,0,,0,00:00,00:00,0,0,0,0,18
+PSI - 3121,Darshan CS,None,Terra Unit - 2,0,9,0,0,0,0,0,0,0,,0,00:00,00:00,0,0,0,0,18
+PSI - 3158,Shaik Subhani Basha,None,Terra Unit - 2,20,3,0,0,0,0,0,0,0,,0,00:00,74:31,6,12,0,20,24
+PSI - 3159,Akshay R,None,Terra Unit - 2,20,6,0,0,0,0,0,0,0,,0,00:00,99:09,4,3,0,20,21
+PSI - 3170,K Syed Amzeth,None,Terra Unit - 2,0,9,0,0,0,0,0,0,0,,0,00:00,00:00,0,0,0,0,18
+PSI - 3179,Sravani C,None,Terra Unit - 2,4,1,0,0,0,0,0,0,0,,0,33:41,30:42,1,1,0,4,26
+PSI - 3180,Vamsi Krishna Reddy,None,Terra Unit - 2,5,9,0,0,0,0,0,0,0,,0,02:10,42:42,2,5,0,5,18
+PSI - 3198,Abhinav EK,None,Terra Unit - 2,0,9,0,0,0,0,0,0,0,,0,00:00,00:00,0,0,0,0,18
+PSI - 3202,Prajwal Nair,None,Terra Unit - 2,0,9,0,0,0,0,0,0,0,,0,00:00,00:00,0,0,0,0,18
+PSI - 3205,Abhishek Mishra,None,Terra Unit - 2,0,9,0,0,0,0,0,0,0,,0,00:00,00:00,0,0,0,0,18
+PSI - 3208,Pavankumar S,None,Terra Unit - 2,0,9,0,0,0,0,0,0,0,,0,00:00,00:00,0,0,0,0,18
+PSI - 3218,Sasidhar Gara,None,Terra Unit - 2,3,6,0,0,0,0,0,0,0,,0,00:00,21:20,3,3,0,3,21
+PSI - 3225,Shivabasayya B?Hiremath,None,Terra Unit - 2,0,9,0,0,0,0,0,0,0,,0,00:00,00:00,0,0,0,0,18
+PSI - 3227,Nalla Chanikya Varma,None,Terra Unit - 2,17,0,0,0,0,0,0,0,0,,0,00:38,147:44,0,17,0,17,27
+PSI - 3228,Pramodhini KS,None,Terra Unit - 2,0,9,0,0,0,0,0,0,0,,0,00:00,00:00,0,0,0,0,18
+PSI - 3229,Anita Kumari,None,Terra Unit - 2,7,2,0,0,0,0,0,0,0,,0,00:00,44:40,7,7,0,7,25
+PSI - 3242,Surapareddy Yasodha,None,Terra Unit - 2,13,4,0,0,0,0,0,0,0,,0,00:00,108:38,10,10,0,13,23
+PSI - 3245,Vignesh R,None,Terra Unit - 2,0,9,0,0,0,0,0,0,0,,0,00:00,00:00,0,0,0,0,18
+PSI - 3247,Buchipalli Pavan,None,Terra Unit - 2,13,4,0,0,0,0,0,0,0,,0,01:50,106:42,12,0,0,13,23
+PSI - 3256,Bharath S,None,Terra Unit - 2,0,9,0,0,0,0,0,0,0,,0,00:00,00:00,0,0,0,0,18
+PSI - 3257,Yashwanth AN,None,Terra Unit - 2,0,9,0,0,0,0,0,0,0,,0,00:00,00:00,0,0,0,0,18
+PSI - 3263,Sayali Throat,None,Terra Unit - 2,0,9,0,0,0,0,0,0,0,,0,00:00,00:00,0,0,0,0,18
+PSI - 3264,Abdul   Tanzeel,None,Terra Unit - 2,0,9,0,0,0,0,0,0,0,,0,00:00,00:00,0,0,0,0,18
+PSI - 3265,Pallavi Kharade,None,Terra Unit - 2,0,9,0,0,0,0,0,0,0,,0,00:00,00:00,0,0,0,0,18
+PSI - 3266,Naresh Yerramsetty,None,Terra Unit - 2,0,5,0,0,0,0,0,0,0,,0,00:00,00:00,0,0,0,0,22
+PSI - 3288,Moulvik M,None,Terra Unit - 2,0,9,0,0,0,0,0,0,0,,0,00:00,00:00,0,0,0,0,18
+PSI - 3292,Suraj Joshi,None,Terra Unit - 2,2,7,0,0,0,0,0,0,0,,0,02:02,09:00,0,0,0,2,20
+PSI - 3297,Syed Reshma,None,Terra Unit - 2,8,12,0,0,0,0,0,0,0,,0,14:38,63:00,0,0,0,8,15
+PSI - 3299,Motupalli Sai lakshmi,None,Terra Unit - 2,8,8,0,0,0,0,0,0,0,,0,17:50,63:00,0,0,0,8,19
+PSI - 3301,Srishahini?Jayakumar,None,Terra Unit - 2,16,10,0,0,0,0,0,0,0,,0,00:00,106:41,5,16,0,16,17
+PSI - 3303,Jagadabhi?Balaji,None,Terra Unit - 2,17,3,0,0,0,0,0,0,0,,0,01:50,148:27,15,1,0,17,24
+PSI - 3306,Tharun Kumar   Meesala,None,Terra Unit - 2,6,3,0,0,0,0,0,0,0,,0,00:00,13:15,6,6,0,6,24
+PSI - 3316,ADAVI SRI SATYA?SAI SARVAN,None,Terra Unit - 2,7,3,0,0,0,0,0,0,0,,0,04:42,52:12,5,3,0,7,24
+PSI - 3323,Neha Naidu GN,None,Terra Unit - 2,0,9,0,0,0,0,0,0,0,,0,00:00,00:00,0,0,0,0,18
+PSI - 3324,Manasi Nanda,None,Terra Unit - 2,0,9,0,0,0,0,0,0,0,,0,00:00,00:00,0,0,0,0,18
+PSI - 3327,Kashyap Mahajan,None,Terra Unit - 2,0,9,0,0,0,0,0,0,0,,0,00:00,00:00,0,0,0,0,18
+PSI - 3365,C.Harsha Sai Raghav,None,Terra Unit - 2,19,8,0,0,0,0,0,0,0,,0,00:00,83:29,11,5,0,19,19
+PSI-3406,Ravishankar K S,None,Terra Unit - 2,0,9,0,0,0,0,0,0,0,,0,00:00,00:00,0,0,0,0,18
+PSI - 3438,Vijayalakshmi T G,None,Terra Unit - 2,0,9,0,0,0,0,0,0,0,,0,00:00,00:00,0,0,0,0,18
+PSI - 3467,Pavan Kalyan N,None,Terra Unit - 2,16,1,0,0,0,0,0,0,0,,0,00:25,137:32,13,11,0,16,26
+PSI - 3468,Rohith E,None,Terra Unit - 2,0,9,0,0,0,0,0,0,0,,0,00:00,00:00,0,0,0,0,18
+PSI - 3469,B R Vadiraja,None,Terra Unit - 2,0,9,0,0,0,0,0,0,0,,0,00:00,00:00,0,0,0,0,18
+PSI - 3470,Samantha V,None,Terra Unit - 2,0,9,0,0,0,0,0,0,0,,0,00:00,00:00,0,0,0,0,18
+PSI - 3473,Meda Kamal Teja,None,Terra Unit - 2,15,2,0,0,0,0,0,0,0,,0,00:35,130:33,2,13,0,15,25
+PSI - 3474,Dhanush N Kuchally,None,Terra Unit - 2,17,0,0,0,0,0,0,0,0,,0,00:00,139:02,10,17,0,17,27
+PSI - 3475,Kiran Kumar B R,None,Terra Unit - 2,16,1,0,0,0,0,0,0,0,,0,03:45,139:02,11,3,0,16,26
+PSI - 3476,Sowmya D N,None,Terra Unit - 2,0,9,0,0,0,0,0,0,0,,0,00:00,00:00,0,0,0,0,18
+PSI - 3477,H S Anusha,None,Terra Unit - 2,0,9,0,0,0,0,0,0,0,,0,00:00,00:00,0,0,0,0,18
+PSI - 3479,Spandana S Y,None,Terra Unit - 2,17,0,0,0,0,0,0,0,0,,0,00:33,129:46,7,14,0,17,27
+PSI - 3480,Rekha K,None,Terra Unit - 2,0,9,0,0,0,0,0,0,0,,0,00:00,00:00,0,0,0,0,18
+PSI - 3481,Soujanya R Acharya,None,Terra Unit - 2,0,9,0,0,0,0,0,0,0,,0,00:00,00:00,0,0,0,0,18
+PSI - 3482,K P Bhavya,None,Terra Unit - 2,16,1,0,0,0,0,0,0,0,,0,00:53,140:27,13,5,0,16,26
+PSI - 3484,E NITHIN SAIKUMAR,None,Terra Unit - 2,16,1,0,0,0,0,0,0,0,,0,07:55,142:53,6,0,0,16,26
+PSI - 3527,Kumuda Behera,None,Terra Unit - 2,3,2,0,0,0,0,0,0,0,,0,00:04,17:12,2,1,0,3,25
+PSI -3528,Sharanappa P,None,Terra Unit - 2,4,1,0,0,0,0,0,0,0,,0,00:00,24:17,0,4,0,4,26
+PSI - 3529,Aahna?Sharma,None,Terra Unit - 2,5,0,0,0,0,0,0,0,0,,0,00:00,30:14,3,5,0,5,27
+PSI - 3530,Amal?Antony,None,Terra Unit - 2,5,0,0,0,0,0,0,0,0,,0,00:00,23:50,1,5,0,5,27
+PSI -3531,Ashish Biradar,None,Terra Unit - 2,3,2,0,0,0,0,0,0,0,,0,00:26,22:42,2,3,0,3,25
+PSI -3532,Salman Dharvesh,None,Terra Unit - 2,3,2,0,0,0,0,0,0,0,,0,00:00,13:33,2,3,0,3,25
+PSI -3533,Garima Sharma,None,Terra Unit - 2,3,2,0,0,0,0,0,0,0,,0,00:00,20:24,2,3,0,3,25
+PSI -3535,Abhijeet Nikam?,,Terra Unit - 2,0,5,0,0,0,0,0,0,0,,0,00:00,00:00,0,0,0,0,22
+PSI4001,Test 1,None,Terra Unit - 2,0,5,0,0,0,0,0,0,0,,0,00:00,00:00,0,0,0,0,22
+PSI4002,Test 2,None,Terra Unit - 2,0,5,0,0,0,0,0,0,0,,0,00:00,00:00,0,0,0,0,22
+PSI4003,Test 3,None,Terra Unit - 2,0,5,0,0,0,0,0,0,0,,0,00:00,00:00,0,0,0,0,22
+PSI4004,Test 4,None,Terra Unit - 2,0,5,0,0,0,0,0,0,0,,0,00:00,00:00,0,0,0,0,22
+PSI4005,Test 5,None,Terra Unit - 2,0,5,0,0,0,0,0,0,0,,0,00:00,00:00,0,0,0,0,22
+PSI - 4005,Test 5,None,Terra Unit - 2,0,5,0,0,0,0,0,0,0,,0,00:00,00:00,0,0,0,0,22
+SSS - 043,Kariyamma,None,Terra Unit - 2,5,0,0,0,0,0,0,0,0,,0,00:00,29:55,4,0,0,5,27
+SSS 049,Navin Raikal,None,Terra Unit - 2,0,5,0,0,0,0,0,0,0,,0,00:00,00:00,0,0,0,0,22
+SSS 050,Deepak Thapa,None,Terra Unit - 2,0,5,0,0,0,0,0,0,0,,0,00:00,00:00,0,0,0,0,22
+SSS - 067,Upendra B,None,Terra Unit - 2,4,1,0,0,0,0,0,0,0,,0,04:13,36:00,1,0,0,4,26
+SSS - 083,NipeshT,None,Terra Unit - 2,5,0,0,0,0,0,0,0,0,,0,21:24,45:00,0,0,0,5,27
+SSS - 084,Hari T,None,Terra Unit - 2,5,0,0,0,0,0,0,0,0,,0,12:03,45:00,0,0,0,5,27
+SSS - 095,Sumalatha,None,Terra Unit - 2,5,0,0,0,0,0,0,0,0,,0,00:00,39:08,5,0,0,5,27
+,,,,687,1569,0,0,0,0,0,0,0,0,0,260:18,,,,0,687,4479
+,,,,687,1569,0,0,0,0,0,0,0,0,0,260:18,,,,0,687,4479
